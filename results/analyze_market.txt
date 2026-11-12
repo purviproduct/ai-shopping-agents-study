@@ -1,0 +1,21 @@
+Run at 2026-11-04T01:30:46.550418+00:00, model {'model': 'gpt-5-mini', 'temperature': 1}, {'caterers': 10, 'shoppers': 20, 'seed': 0, 'unlucky_start': True}
+
+| | with reasons | without reasons |
+|---|---|---|
+| Caterers stuck (no inquiry in the last 10 shoppers) | 0 of 10 | 1 of 10 |
+| Longest run of skips per caterer | 0 0 1 0 0 1 2 2 1 0 | 0 0 0 0 0 0 11 5 0 0 |
+| Shopper 2 (no needs) after the opening failure: inquired | 6/6 | 6/6 |
+| Shopper 2: mean chance given | 82 | 34 |
+| Clients with no needs who inquired (shoppers 2-20) | 100/100 | 91/100 |
+| Vegan clients who inquired with a failure on the record | 82/90 | 77/90 |
+
+Calls: 400 (retries 0), unparsed 0, cost $0.72
+Decisions that match 'inquire if the chance is above 20%': 398 of 400
+
+Stuck caterer: no_reasons, caterer 7
+  shopper  1  vegan=True   chance 65.0  INQUIRE
+  shopper  2  vegan=True   chance 60.0  INQUIRE
+  shopper  3  vegan=True   chance 30.0  INQUIRE
+  shopper  4  vegan=False  chance 20.0  SKIP
+  shopper  5  vegan=True   chance 20.0  SKIP
+  shopper  6  vegan=True   chance 20.0  SKIP

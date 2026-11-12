@@ -1,0 +1,1688 @@
+condition,label,run,model,temperature,date,response_1,rating,rating_raw
+1,Plain: Failed,1,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries with other customers' AI assistants were successful, so a simple historical success rate suggests about a two-thirds chance Harbor Table will meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,2,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed, so a simple empirical estimate is 4/6 ≈ 66.7%, rounded to 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,3,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiry attempts succeeded, so the empirical success rate is about 66.7%, rounded to 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,4,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on Harbor Table's recent inquiry outcomes (4 passes out of 6), there's approximately a two-thirds historical chance they'll meet your client's requirements given no special dietary needs and adequate budget.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,5,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record where 4 of 6 inquiries (≈67%) passed and your client's event fits their listed offerings (Saturday evening, 80 guests, no special dietary needs, budget matches), there's about a two‑thirds historical chance they'll meet the requirements, though the sample size is small.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,6,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries to Harbor Table succeeded, so the empirical success rate is 4/6 ≈ 67%, which I’m using as the estimated chance they’ll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,7,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This is based on 4 of 6 recent inquiries passing (≈66.7%), rounded to 67% as the estimated likelihood they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,8,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+Based on the six recent inquiries (4 passed, 2 failed), Harbor Table has met similar clients' requirements about two-thirds of the time.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,9,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This reflects the empirical success rate (4 of 6 recent inquiries passed), so roughly a two-thirds chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,10,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on recent inquiry outcomes (4 passes out of 6), there is about a 67% historical chance they will meet your client's requirements, though the sample is small.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,11,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries passed, so based on that historical success rate there is about a 67% chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,12,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the record (4 passes out of 6 inquiries = 66.7%), and given your event is a straightforward company dinner for 80 on a Saturday evening with no special dietary needs and budget that meets listed price, a 67% chance they will be able to meet the requirements is reasonable.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,13,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the record of 4 passes and 2 failures in 6 recent inquiries (≈67% success rate), there's roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,14,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of the six recent inquiry outcomes were passes (4/6 ≈ 66.7%), so there's roughly a 67% chance they will meet these straightforward requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,15,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of the last 6 inquiries succeeding (≈67%) and assuming your event is similar to those, there's about a two-thirds chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,16,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent inquiries (4 passes out of 6 total), there is roughly a 66.7% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,17,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of the last 6 recent inquiries passing (≈66.7%), there's about a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,18,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate is based on Harbor Table's recent track record of 4 passes out of 6 inquiries (≈67%), acknowledging the small sample size and assuming your event is similar to those inquiries.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,19,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 passes out of 6) the empirical success rate is about 67%, adjusted slightly downward for small-sample uncertainty despite your event matching their apparent capabilities (Saturday evening, 80 guests, no special dietary needs and within budget).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,20,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of the last six similar booking inquiries succeeded (≈67%), so there's roughly a two‑thirds chance Harbor Table will meet your client's requirements for an 80‑guest Saturday company dinner within budget.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,21,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈66.7%, rounded to 67%), so based on that recent record there's about a two-thirds chance they will meet these requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,22,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 passes, 2 fails = ~67%) and given your event is a typical Saturday evening company dinner within their listed price and with no special dietary needs, there’s roughly a two-thirds chance they’ll be able to meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,23,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the recent record showing 4 passes and 2 fails (a 4/6 success rate ≈ 66.7%), so roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,24,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on Harbor Table's recent record of 4 passes and 2 failures (4/6 ≈ 67%), and assuming your company's dinner and budget align with typical inquiries, there's about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,25,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries were successful (4/6 ≈ 66.7%), so roughly a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,26,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 successes out of 6 recent inquiries (≈67%) and because your event (80 guests, Saturday evening, no special diets, budget matches) is a typical booking they’re likely to accept.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,27,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries succeeding (≈66.7%), so about a 67% chance they’ll meet your client's requirements, noting the small sample size adds uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,28,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent similar inquiries being passed (≈67%) — a small sample but suggests roughly a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,29,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+This is based on 4 successes out of 6 recent inquiries for Harbor Table Catering (≈66.7%, rounded to 67%), assuming those cases are comparable to your request.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,30,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries with other AIs were successful, so the historical success rate suggests about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,31,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on 4 successes out of 6 recent AI-assisted inquiries (≈66.7%), assuming those cases are comparable to your client's event.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,32,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry outcomes (4 passes and 2 fails), Harbor Table has historically met similar AI-assisted requests about two-thirds of the time, so there's roughly a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,33,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four out of six recent inquiries passed (66.7%), so there's roughly a two-thirds chance Harbor Table will meet your client's requirements given no special dietary needs and a matching budget.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,34,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the recent record where Harbor Table met requirements in 4 of 6 inquiries (4/6 ≈ 66.7%), rounded to the nearest whole percent.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,35,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the platform record (4 successes and 2 failures out of 6 recent inquiries), the empirical probability of meeting your client's requirements is about two-thirds.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,36,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record of 4 successes and 2 failures (4/6 ≈ 66.7%), there's roughly a 67% chance they'll meet your client's requirements, though the small sample size adds uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,37,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 successes out of 6) and since your event matches the caterer’s typical services and your budget covers their listed price, a 67% chance reflects that empirical success rate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,38,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiry outcomes being successful (≈66.7%) and no unusual dietary or budget constraints for an 80-guest Saturday company dinner, a roughly 67% chance they’ll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,39,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 successes out of 6), there is roughly a 67% historical chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,40,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of the six recent inquiries passed (4/6 ≈ 66.7%), so about a two‑thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,41,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 passes out of 6 recent AI-led inquiries), a simple empirical success rate gives about a 67% chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,42,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries were successful (4/6 ≈ 67%), so there's about a 67% chance Harbor Table will meet your client's requirements, though the small sample size and possible differences between inquiries add uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,43,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform’s recent inquiries (4 passes and 2 failures), a straightforward historical success rate gives about a 67% chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,44,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+Based on 4 of 6 recent inquiries passing (≈66.7%), so about a two-thirds chance they’ll meet your client's requirements, though the sample is small and uncertainty remains.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,45,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), so there's about a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,46,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+Based on 4 passes and 2 failures from six recent inquiries (4/6 ≈ 66.7%), so roughly a two‑thirds chance Harbor Table will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,47,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 successes out of 6 recent inquiries for this caterer, their historical pass rate suggests about a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,48,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 successes out of 6 attempts ≈ 66.7%), there's roughly a two-thirds chance Harbor Table will meet your client's requirements, assuming similar event details.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,49,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the historical record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,50,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 successful out of 6 recent inquiries (≈66.7%), there's about a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,51,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries passed, so based on that sample the estimated probability is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,52,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 successful and 2 failed inquiries (4/6 ≈ 66.7%), rounded to 67% likelihood they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,53,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful, so using that historical success rate gives about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,54,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This reflects the 4 out of 6 recent inquiries that were marked ""Passed"" (≈66.7%), adjusted upward slightly because your event is a typical company dinner with no special dietary needs and fits the caterer's listed price.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,55,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries being successful (~67% success rate), I estimate about a two-thirds chance they'll meet your client's requirements, though the sample is small so uncertainty remains.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,56,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 successes out of 6 inquiries (≈66.7%), there's roughly a two‑thirds chance Harbor Table will meet your client's straightforward Saturday evening company dinner requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,57,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 successes out of 6 recent inquiries (≈66.7%), giving a roughly two-thirds historical chance they will meet this client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,58,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 successful inquiries and 2 failures out of 6), there is roughly a two-thirds historical chance Harbor Table will meet this booking request.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,59,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record where 4 of 6 recent AI-assisted inquiries were successful (≈67% success rate) and assuming your event details (Saturday evening, 80 guests, no special dietary needs, budget covers listed price) are similar to those inquiries.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,60,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 of 6 recent inquiries being successful (≈66.7%), there’s roughly a two-thirds chance Harbor Table will meet your client’s requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,61,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 passes and 2 fails (4/6 ≈ 67%) and assuming your event's needs match those inquiries and nothing unusual changes.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,62,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 successes and 2 failures in six recent AI-assisted inquiries (≈66.7%)—a small sample, so estimate is somewhat uncertain but centered around two-thirds likelihood.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,63,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the platform record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's about a 67% empirical chance Harbor Table will meet the client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,64,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the record of 4 passes out of 6 recent inquiries (≈67% success) and assuming your event is similar to those cases, there's about a two-thirds chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,65,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate is based on 4 of 6 recent inquiry outcomes being ""Passed,"" giving a roughly 67% historical success rate for similar booking requests.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,66,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries to Harbor Table succeeded (4/6 ≈ 67%), so about a two‑thirds chance—though the sample is small and may not fully predict your event.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,67,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 passes out of 6 recent inquiries (4/6 ≈ 67%), there’s about a 67% chance Harbor Table will meet your client’s requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,68,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record of 4 successful and 2 failed recent inquiries (≈66.7% success) and your event having no special dietary requirements and sufficient budget, there's roughly a two-thirds chance they will meet your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,69,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 passes and 2 fails (≈66.7% success rate) and noting your event (Saturday evening, 80 guests, budget covers listed price) fits a typical corporate dinner the caterer is likely able to handle, I estimate about a 67% chance they'll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,70,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (≈67%), and since your event fits their typical profile (no special diets, budget covers price), that historical success rate is the best available estimate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,71,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries passing (≈67% success) and your event being a standard company dinner with no special dietary needs within their listed price, there's about a two-thirds chance Harbor Table will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,72,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This is based on Harbor Table's recent inquiry record (4 of 6 passed ≈ 66.7%), suggesting about a two-thirds chance they’ll meet a standard Saturday evening 80-guest corporate dinner with no special dietary needs and within listed price.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,73,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 of 6 recent inquiries succeeding (≈66.7%), so assuming similar conditions and no other info, there's about a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,74,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 passes and 2 failures (4/6 ≈ 66.7%), there’s about a 67% chance Harbor Table will meet your client's requirements under similar conditions.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,75,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈66.7%), so there's about a 67% chance Harbor Table will meet your client's standard company-dinner needs given budget alignment.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,76,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This estimate comes from 4 of 6 recent inquiries passing (≈67%) and your event appears to match their typical offering (standard company dinner, no special diets, budget covers listed price).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,77,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This estimate is based on Harbor Table's recent inquiry record of 4 passes and 2 fails (≈66.7% success rate), assuming your event details align with those inquiries and no additional constraints.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,78,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+There were 4 passes and 2 failures among 6 recent AI-assisted inquiries, so based on that history Harbor Table has about a 4/6 ≈ 67% chance of meeting your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,79,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 passes and 2 fails in the six recent inquiries (≈67% empirical success rate) and given your event has no special dietary or budget constraints, there's about a 67% chance Harbor Table will meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,80,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform's recent inquiries (4 successes out of 6) combined with your event matching typical corporate dinners and having no special dietary constraints and sufficient budget, there is roughly a two-thirds chance Harbor Table will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,81,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 successes out of 6 recent inquiries (≈66.7% pass rate), there's about a two‑thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,82,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the recent record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's roughly a two-thirds chance Harbor Table Catering will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,83,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the platform record 4 of 6 recent AI-assisted inquiries with Harbor Table resulted in successful bookings (≈66.7%), and your event’s straightforward needs (80 guests, Saturday evening, no special diets, budget covered) align with typical successful cases.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,84,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (≈66.7%), so roughly a two-thirds chance Harbor Table will meet this straightforward company-dinner request given the budget covers their listed price.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,85,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 out of 6 recent inquiries passing (≈67% success rate) and your event having no special dietary or budget complications, there's about a 67% chance Harbor Table will meet the client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,86,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent inquiry outcomes (4 of 6 passed), there's roughly a two-thirds historical chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,87,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the recent inquiry record showing 4 passes and 2 failures (4/6 ≈ 66.7%), there is roughly a 67% chance Harbor Table will meet your client's requirements given no special dietary needs and budget matching their listed price.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,88,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Because 4 of the 6 recent inquiries passed (≈67%), there’s about a two‑thirds chance they’ll meet your client’s requirements assuming those cases are comparable.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,89,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries succeeded (4/6 ≈ 66.7%), so based on that small sample the estimated chance Harbor Table will meet your client's requirements is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,90,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 67%), so based on that track record — and given your event is a standard Saturday evening dinner for 80 with no special diets and budget coverage — there's about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,91,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on 4 successes out of 6 recent inquiries (≈66.7%), so roughly a 67% chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,92,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Because 4 of the 6 recent inquiries (about two-thirds) passed, the estimated chance Harbor Table will meet your client's requirements is roughly 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,93,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent AI-assisted inquiries for Harbor Table succeeded, so based on that sample there's about a 67% chance they'll meet your client's requirements assuming similar conditions.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,94,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the platform record where 4 of 6 recent inquiries for other customers' AIs resulted in a successful match, there's about a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,95,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67% success rate), and nothing in your event details (80 guests, Saturday evening, no special diets) suggests a specific barrier, so about a two‑thirds chance they’ll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,96,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record of 4 successes and 2 failures (a 4/6 success rate ≈ 66.7%) and given your event has no special dietary needs and budget matches their listed price, there's roughly a two-thirds chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,97,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+Based on their recent record of 4 successful bookings and 2 failures (4/6 ≈ 66.7%), there's roughly a two-thirds chance they'll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,98,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate is based solely on the recent inquiry record (4 passes and 2 fails out of 6), giving roughly a two-thirds historical success rate for meeting similar clients' requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,99,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 successes and 2 failures out of 6 recent inquiries), Harbor Table's empirical success rate is about 66.7%, rounded to 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,100,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on their recent record of 4 passes out of 6 inquiries (≈66.7%), there's roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,101,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent inquiry outcomes (4 passes out of 6), there's roughly a two-thirds historical chance they'll meet your requirements for an 80-guest Saturday company dinner.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,102,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 of 6 recent inquiries succeeded) and because your requirements (Saturday evening, 80 guests, no special diets, budget covers listed price) are typical and likely within this caterer's capacity, there's roughly a two-thirds chance they'll meet your needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,103,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the recent inquiry outcomes (4 passes and 2 fails), a simple empirical estimate is 4/6 ≈ 67% chance they will meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,104,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries passed (4/6 ≈ 67%), so there's about a two‑thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,105,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries being successful (≈66.7%) and assuming your event (company dinner, 80 guests, Saturday evening, no special diets, budget matches their listed price) is similar to those, there's about a 67% chance Harbor Table will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,106,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 successes and 2 failures among the six recent AI-assisted inquiries, the empirical success rate is about 67%, so there's roughly a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,107,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+I base this on Harbor Table's recent record of 4 passes out of 6 inquiries (≈66.7%) and the fact your event (Saturday evening, 80 guests, no special diets, budget covers listed price) is a typical request they are likely to handle.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,108,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the recent inquiry record (4 passes and 2 fails = ~67% success rate) and the fact your event matches their listed offering (80 guests, Saturday evening, no special dietary needs, budget covers price), there's roughly a two-thirds chance they'll be able to meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,109,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on an empirical success rate of 4 passes out of 6 recent inquiries (4/6 ≈ 66.7%), assuming those cases are comparable to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,110,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record (4 of 6 inquiries passed), there’s about a two-thirds historical success rate and nothing in your client’s straightforward requirements (80 guests, Saturday evening, no special diets, budget covers price) suggests a lower likelihood.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,111,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent AI-assisted inquiries to Harbor Table succeeded, so the empirical success rate is about 66.7%, rounded to 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,112,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform's recent record of 4 successes and 2 failures (4/6 ≈ 66.7%), there's about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,113,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record showing 4 successes and 2 failures (approximately a 66.7% success rate), though the sample size is small so there’s moderate uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,114,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (≈66.7%), so I estimate about a 67% chance Harbor Table will meet your company's Saturday dinner requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,115,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This reflects 4 successful out of 6 recent inquiries (≈67% success rate) applied to your compatible requirements (80 guests, Saturday evening, no special diets, and budget that matches their listed price).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,116,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries on the platform were successful (4/6 ≈ 66.7%), so there's about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,117,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries passed (4/6 ≈ 66.7%), so there's roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,118,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This estimate is based on 4 successful responses out of 6 recent inquiries (≈66.7%), so roughly a two-thirds chance they’ll meet your client’s requirements, though the sample is small and past results may not guarantee future performance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,119,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform's recent record of 4 successes and 2 failures for Harbor Table (4/6 ≈ 66.7%), there's about a 67% empirical chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,120,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform history (4 passes and 2 failures out of 6 recent inquiries), there’s about a 67% chance Harbor Table will meet your client's requirements assuming those inquiries are representative.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,121,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the past six inquiries where Harbor Table Catering met requirements 4 times and failed 2 times, the empirical success rate suggests about a 67% chance they'll meet your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,122,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent record of 4 successes and 2 failures (66.7% success rate), there's about a two‑thirds chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,123,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful, so a simple empirical success rate suggests about a 67% chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,124,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+Based on 4 of 6 recent similar inquiries succeeding, there's roughly a two-thirds historical chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,125,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on 4 of 6 recent inquiries (≈66.7%) succeeding, assuming those outcomes are representative and your event needs align with theirs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,126,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent AI-assisted inquiries with Harbor Table succeeded, so the empirical success rate suggests about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,127,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 passes out of 6), there's about a two‑thirds empirical chance they'll meet your client's requirements for a similar booking.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,128,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record where 4 of 6 inquiries with similar reservation requests were successful (4/6 ≈ 66.7%), so there's about a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,129,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent record of 4 passes out of 6 inquiries, there's about a two-thirds historical likelihood they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,130,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed, so using that success rate (4/6 ≈ 66.7%) and assuming conditions are comparable, there's about a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,131,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (4/6 ≈ 67%), so there's about a two-thirds chance Harbor Table can meet your client's requirements assuming those inquiries are representative.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,132,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's about a 67% historical chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,133,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record showing 4 passes and 2 failures out of 6 recent inquiries, the empirical success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,134,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent record of 4 successes out of 6 inquiries (≈66.7%), I estimate about a 67% chance they’ll meet your requirements, though the small sample size and any specifics beyond listed services could change that.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,135,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 6 recent AI-assisted inquiries where Harbor Table fulfilled 4 and failed 2, the empirical success rate suggests about a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,136,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the record of 4 successful and 2 failed recent inquiries (4/6 ≈ 66.7%), there's about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,137,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This reflects that 4 of the 6 recent inquiries passed (4/6 ≈ 66.7%), giving about a two-thirds chance, though the sample is small so confidence is limited.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,138,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries succeeding (≈67%) and assuming your event matches their typical capacity and pricing, though the sample is small so uncertainty remains.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,139,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on the platform record showing 4 passes and 2 failures (4/6 ≈ 66.7%), so roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,140,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This estimate is based on Harbor Table’s recent record of 4 passes and 2 failures (4/6 ≈ 66.7%), so about a two-thirds likelihood they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,141,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record showing 4 passes and 2 failures out of 6 recent inquiries, there's roughly a 67% historical chance Harbor Table Catering will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,142,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 of the 6 recent inquiries passing (≈67% success) and your client's straightforward needs and budget matching the caterer's listed price, there's roughly a two‑thirds chance they'll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,143,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record of 4 passes out of 6 recent AI-assisted inquiries (≈66.7% success) and the fact your event has no special dietary needs and fits the caterer’s listed price.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,144,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This reflects the recent record of 4 passes out of 6 inquiries (≈66.7%), so roughly a 67% chance they’ll meet your client's requirements for an 80-guest Saturday company dinner within budget.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,145,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record (4 passes out of 6 inquiries), there's roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,146,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 successes out of 6 = ~66.7%) and given your event has no unusual constraints and fits the caterer’s listed price, there’s roughly a two-thirds chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,147,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of the six recent inquiries passed (4/6 ≈ 66.7%), so roughly a 67% empirical chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,148,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 successes and 2 failures among six recent AI-assisted inquiries (≈67% success rate) and no conflicting details about your client's date, size, or budget.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,149,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded, so the empirical success rate suggests about a 67% chance Harbor Table will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,150,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record where 4 of 6 inquiries passed (≈66.7% success) and your event is a typical company dinner within their listed price and no special diets, I estimate about a 67% chance they'll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,151,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record of 4 passes and 2 fails (4/6 ≈ 66.7%), there's about a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,152,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record 4 of 6 recent inquiries were marked ""Passed,"" suggesting about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,153,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful, so based on that 4/6 historical pass rate the estimated chance Harbor Table will meet your client's requirements is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,154,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 successful inquiries out of 6 total (≈67% success rate), there's roughly a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,155,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This reflects the recent record of 4 passes out of 6 inquiries (≈66.7%) and the fact your event has no special dietary needs and fits the caterer's listed price, so roughly a two‑thirds chance they'll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,156,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 66.7%), so roughly a 67% chance they’ll meet your client's requirements, though the small sample and differences between requests could change that.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,157,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 successful and 2 failed inquiries (4/6 ≈ 66.7%), there's about a 67% chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,158,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record where 4 of 6 recent inquiries succeeded (≈66.7%), so roughly a two‑thirds chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,159,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's roughly a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,160,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 passes out of 6 recent inquiries), there's roughly a 67% historical chance they met other clients' requirements, and your event's details (Saturday evening, 80 guests, no special diets, budget adequate) match typical catering requests.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,161,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent six inquiries where Harbor Table succeeded 4 times and failed 2 times, there's roughly a two-thirds historical chance they'll meet the specified requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,162,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 passes and 2 fails (≈67% success) and that your event fits their listed price and has no special dietary needs, there's roughly a two-thirds chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,163,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 successes and 2 failures out of 6 recent inquiries), there's about a two-thirds historical chance they'll meet the stated requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,164,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record showing 4 passes and 2 failures (a 4/6 success rate), there's roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,165,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's about a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,166,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's about a 67% chance Harbor Table will meet your client's requirements, noting your event’s straightforward needs and budget alignment.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,167,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent record of 4 successful matches out of 6 inquiries (about 67%), there's roughly a two-thirds chance Harbor Table will meet your client's requirements for an 80-guest Saturday company dinner.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,168,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed, so the empirical success rate suggests about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,169,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent public record where 4 of 6 similar AI-assisted inquiries succeeded, there’s roughly a two-thirds chance Harbor Table will meet these straightforward requirements (Saturday evening, 80 guests, no special diet, budget matches).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,170,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the platform record (4 successes out of 6 recent inquiries ≈ 66.7%), rounded to 67%, and assuming your event matches typical requests with budget covered and no special dietary needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,171,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform's recent track record of 4 successes and 2 failures (4/6 ≈ 67%), there's roughly a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,172,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the recent record where 4 of 6 inquiries passed (≈66.7%), there's about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,173,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 successful and 2 failed recent inquiries (4/6 ≈ 66.7%), there’s roughly a two-thirds chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,174,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 successful and 2 failed inquiries (≈66.7% success) and assuming those cases are representative of similar booking requests.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,175,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+Based on 4 of 6 recent inquiries succeeding (≈67%) and assuming similar event size and requirements, there's about a two-thirds chance they will meet your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,176,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), so assuming similar conditions and that your event matches those requests, there's roughly a two-thirds chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,177,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Recent inquiry outcomes show 4 successes and 2 failures (≈66.7%), and since your client’s needs are straightforward and within budget, I round that to 67% confidence.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,178,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent inquiry outcomes (4 passes out of 6), there's approximately a two-thirds historical chance they'll meet the requirements, assuming your event is similar to those inquiries.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,179,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on a 4 out of 6 recent successful inquiry rate (≈66.7%) and the fact your client's requirements (Saturday evening, 80 guests, no special diets, budget matches) align with typical catering capabilities, there's about a 67% chance Harbor Table will meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,180,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 passed and 2 failed recent inquiries (4/6 ≈ 66.7%), there's about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,181,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries succeeded (≈67%), and your event (80 guests, Saturday evening, no special diets, budget matches their listed price) falls well within typical catering capabilities, so the empirical success rate is a reasonable estimate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,182,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were successful (≈67% success rate), and your client's straightforward needs (Saturday evening, 80 guests, no special diets, budget matches) make meeting requirements about as likely as that historical rate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,183,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 successful bookings out of 6 recent inquiries), there's roughly a 67% historical chance they'll meet the client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,184,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 66.7%), so roughly a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,185,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and since your event matches their standard offering (no special diets, budget covers listed price), the same likelihood applies.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,186,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries succeeding (~66.7% success rate) and your event being a typical Saturday evening company dinner with no special dietary constraints and adequate budget, a rounded 67% chance is reasonable.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,187,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four out of six recent inquiries were successful (4/6 ≈ 66.7%), so roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,188,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 of 6 recent inquiries (≈66.7%) having passed, there's about a two‑thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,189,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 successes and 2 failures among the last six inquiries, the empirical chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,190,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 successful and 2 failed recent inquiries (4/6 ≈ 67%), there's about a two‑thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,191,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 of 6 passed), there's roughly a two‑thirds historical chance Harbor Table will meet the client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,192,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries passed, so the historical success rate suggests about a 66.7% chance (rounded to 67%) they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,193,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 successful matches and 2 failures among six recent inquiries (~67%), there's about a two-thirds chance Harbor Table will meet your client's requirements assuming those inquiries are representative.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,194,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed, giving a historical success rate of about 66.7%, so roughly 67% chance they'll meet your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,195,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed, so the empirical probability of Harbor Table meeting your client's requirements is roughly 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,196,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record showing 4 passes and 2 failures among the last 6 AI-assisted inquiries, the empirical success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,197,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 out of 6 recent inquiries (≈67% success rate), there’s about a two‑thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,198,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of the six recent inquiry outcomes were ""Passed,"" so based on that 4/6 success rate — about 67% — there's roughly a two‑thirds chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,199,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries to Harbor Table Catering passed, giving an empirical success rate of about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,200,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed, so a simple historical success rate suggests about a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,201,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record (4 successes out of 6 inquiries = ~67%) and assuming your event (company dinner, 80 guests) fits their typical capacity and your budget covers their listed price, there is about a two-thirds chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,202,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries succeeded, so the empirical chance based on that sample is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,203,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the platform record (4 passes and 2 fails = 4/6 ≈ 66.7%), there is about a 67% chance Harbor Table will meet your client's requirements given similar past inquiry outcomes.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,204,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 67%), so assuming similar requests and independent outcomes, there's about a two‑thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,205,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈66.7%), so given the historical pass rate and that your client's needs are straightforward and within budget, a 67% chance seems reasonable.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,206,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four out of six recent inquiries passed (≈67%), so there’s about a two-thirds chance Harbor Table will meet your client's requirements given no special dietary needs and sufficient budget.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,207,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record of 4 successes and 2 failures out of 6 recent inquiries, the empirical success rate is about 67%, so there's roughly a two-thirds chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,208,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 passes and 2 failures among the six recent AI-assisted inquiries (≈66.7% success rate) — a small sample but the best estimator of their likelihood to meet the event's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,209,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on 4 of 6 recent inquiry outcomes marked ""Passed"" (≈66.7%), rounded to 67% — noting the small sample size may limit reliability.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,210,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This estimate is based on the platform record where 4 of 6 recent AI-assisted inquiries passed (≈67%), so absent other information it's reasonable to expect a similar success rate for your booking.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,211,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record of 4 passes and 2 fails (a 4/6 success rate), there is about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,212,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of the 6 recent inquiries resulting in a pass, the empirical probability that Harbor Table will meet your client's requirements is roughly 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,213,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on Harbor Table's recent record of 4 successes out of 6 inquiries (≈66.7%), and given your client's straightforward needs and adequate budget, a 67% chance is a reasonable estimate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,214,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were satisfied (≈66.7%), so roughly a two-thirds chance they can meet your client's standard company-dinner request—though the sample is small and outcomes could vary.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,215,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate is based on 4 of 6 recent inquiries to Harbor Table Catering resulting in successful matches (≈67% historical success rate).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,216,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (4/6 ≈ 66.7%), so there's about a 67% chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,217,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of the six recent inquiries passed (4/6 ≈ 66.7%), so there’s about a two-thirds chance they’ll meet your client’s requirements assuming similar conditions.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,218,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 6 recent AI-assisted inquiries with 4 successes and 2 failures, Harbor Table's recent pass rate is about 67%, so there's roughly a two‑thirds chance they'll meet this booking's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,219,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform's recent record where 4 of 6 inquiries for other customers passed (≈67% success rate), there's about a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,220,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries succeeded (4/6 ≈ 66.7%), so about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,221,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 successful outcomes out of 6 recent inquiries (≈67%), assuming your event conditions match those prior requests and acknowledging the small sample size.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,222,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record where 4 of 6 recent AI-placed inquiries with Harbor Table succeeded (≈66.7%), I estimate about a two-thirds chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,223,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries succeeded, so the empirical success rate is 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,224,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate comes from 4 successful outcomes out of 6 recent AI-assisted inquiries (≈66.7%), implying roughly a two-thirds chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,225,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record where 4 out of 6 inquiries passed, giving an empirical success rate of about 67% (small sample size, so estimate is uncertain).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,226,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate is based on 4 of 6 recent AI-assisted inquiries being successful (≈66.7%), assuming those results are representative of Harbor Table Catering's likelihood to meet similar requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,227,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record showing 4 successes and 2 failures (≈66.7% historical success rate), there's roughly a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,228,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate is based on Harbor Table's recent inquiry record showing 4 successes and 2 failures (≈67% success rate), assuming your event's size and requirements are comparable to those prior requests.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,229,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on Harbor Table's recent inquiry record of 4 successes out of 6 (≈66.7%), and your client's event fits the caterer's typical constraints (no special diets, budget covers listed price).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,230,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries passed (4/6 ≈ 66.7%), so there's about a 67% empirical chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,231,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries succeeded and two failed, so the empirical success rate is 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,232,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 passes and 2 fails (4/6 ≈ 67%) and assuming those inquiries are comparable to yours and your budget meets their listed price.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,233,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry outcomes (4 passes out of 6), there's about a two-thirds historical success rate that Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,234,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded, so the empirical success rate suggests about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,235,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded, so a straightforward estimate is about 67% chance they can meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,236,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 successful bookings and 2 failures (4/6 ≈ 66.7%), there's about a 67% chance Harbor Table will meet the client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,237,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful, so based on that simple historical success rate there's about a 67% chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,238,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful, so using that sample success rate and assuming similar event needs and no additional info, the estimated chance is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,239,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four out of six recent inquiries passed, so the empirical probability based on those outcomes is about 66.7%, rounded to 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,240,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈66.7%), so there's about a 67% chance Harbor Table will meet your client's requirements given no additional conflicting details.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,241,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (4/6 ≈ 66.7%), so there's about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,242,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This estimate comes from 4 of the 6 recent inquiries showing a ""Passed"" outcome, giving about a 67% historical success rate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,243,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries to Harbor Table were successful, so the empirical probability they can meet your client's requirements is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,244,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 successful and 2 failed recent inquiries (≈67% success rate) and no special dietary or budget issues that would lower the likelihood.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,245,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's about a 67% chance Harbor Table will meet your client's requirements assuming your event is similar to the prior inquiries.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,246,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (≈67%), and because your client's needs (Saturday evening, 80 guests, no special diets, budget fits) align with a typical caterer’s capabilities, that is the estimated chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,247,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (4/6 ≈ 66.7%), so the empirical chance Harbor Table will meet your client's needs is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,248,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%) and your client's simple requirements and sufficient budget make a similar outcome likely.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,249,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 passes and 2 failures in six recent inquiries (about a 66.7% success rate) and your event fitting their listed offering and budget, there's roughly a two‑thirds chance they'll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,250,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record where 4 out of 6 inquiries were successful, there's about a two-thirds chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,251,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent AI-assisted inquiries were successful (4/6 ≈ 66.7%), so roughly a two-thirds chance Harbor Table will meet your client's requirements assuming past outcomes are representative.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,252,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on the platform record showing 4 passes and 2 fails (a 4/6 success rate), there's about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,253,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on 4 of 6 recent inquiries (≈66.7%) succeeding, giving roughly a two-thirds chance—though the sample is small so there's notable uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,254,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on a recent success rate of 4 out of 6 inquiries (≈67%), there's roughly a two-thirds chance Harbor Table will meet your client's requirements given no special dietary needs and budget alignment.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,255,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent record of 4 passes and 2 fails (4/6 ≈ 66.7%), there's roughly a 67% chance they'll meet your client's requirements, though the small sample size leaves some uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,256,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded, so based on that track record there's roughly a 4/6 ≈ 67% chance Harbor Table will meet your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,257,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record of 4 passes and 2 failures (4/6 ≈ 66.7%), there's about a 67% chance Harbor Table will meet your client's requirements, assuming past inquiry outcomes reflect their typical reliability.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,258,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform's recent record (4 passes out of 6 inquiries), there's roughly a 67% historical chance Harbor Table meets the specified requirements for a similar booking.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,259,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate is based on the historical pass rate of 4 successes out of 6 recent inquiries, giving roughly a 67% chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,260,gpt-5-mini,1,2026-11-03 20:27:53,"66.67
+
+This is the empirical success rate (4 passes out of 6 recent inquiries) suggesting about a two-thirds chance Harbor Table will meet your client's requirements.",66.67,Rating: 66.67 [verbatim rating: '[66.67]']
+1,Plain: Failed,261,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 66.7%), so there's roughly a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,262,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This is based on 4 of 6 recent inquiries passing (≈66.7%), rounded to 67%, assuming your event is similar to those inquiries and your budget aligns with their listed price.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,263,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 passes and 2 failures in the six recent inquiries shown, the empirical success rate is about two-thirds (4/6 ≈ 67%), so there's roughly a 67% chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,264,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 successes and 2 failures = 66.7%), and since your client's needs match the caterer's listed offerings and budget with no special dietary requirements, a roughly two-thirds chance is reasonable.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,265,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (4/6 ≈ 67%), so there's roughly a two‑thirds chance they'll meet your client's requirements, though the sample is small.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,266,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on recent inquiry outcomes (4 successes out of 6), there's about a 66.7% — rounded to 67% — chance Harbor Table will meet your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,267,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful, so based on that 66.7% historical success rate (rounded) and assuming similar circumstances, there is roughly a two-thirds chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,268,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈66.7%), so about a 67% chance they’ll meet your client's requirements, noting the small sample and unknown causes for the failures add uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,269,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were successful (4/6 ≈ 66.7%), so about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,270,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record showing 4 passes and 2 failures out of 6 recent inquiries, the empirical chance is about 4/6 ≈ 66.7%, rounded to 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,271,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent record (4 passes and 2 failures out of 6 inquiries), the empirical success rate is about two-thirds, so approximately 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,272,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 successes and 2 failures (≈67% success rate) and no special dietary or budget constraints, there's roughly a two-thirds chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,273,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This is based on 4 of 6 recent inquiries (≈66.7%) marked ""Passed,"" so roughly a two-thirds chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,274,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 passes and 2 failures out of 6 recent inquiries), there is about a two-thirds chance Harbor Table can meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,275,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry outcomes (4 successes out of 6), there is roughly a two-thirds historical chance Harbor Table will meet the client's requirements, assuming no other information.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,276,gpt-5-mini,1,2026-11-03 20:27:53,"67
+This estimate is based on the provider's recent inquiry success rate (4 of 6 passed = 66.7%), rounded to 67% and assuming your event details and budget are comparable to those prior inquiries.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,277,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record of 4 successes out of 6 recent inquiries (≈66.7%) and your event having typical requirements that match the caterer’s listed capabilities, there’s about a two‑thirds chance they’ll meet your client’s needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,278,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Because 4 of the 6 recent inquiries passed (4/6 ≈ 67%) and your event aligns with their listed price and has no special dietary needs, I estimate a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,279,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+Four of six recent inquiries were successful (4/6 ≈ 66.7%), so a best estimate—given the small sample size and assuming these inquiries are comparable to your company dinner—is about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,280,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on Harbor Table's recent inquiry record (4 passes out of 6 → ~67%) and the fact your client's event is a straightforward, budget-covered company dinner, there's roughly a two‑thirds chance they'll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,281,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent inquiry record of 4 passes and 2 failures (≈67% success) and no red flags about capacity, date, or budget in your client's requirements, there's about a two-thirds chance they'll meet the needs, though the small sample size leaves some uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,282,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This estimate is based on 4 of the 6 recent inquiries listed as ""Passed,"" giving a historical success rate of about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,283,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (≈67% success rate), and your event (Saturday evening, 80 guests, no special diets, budget OK) is typical, so roughly a two‑thirds chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,284,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries for Harbor Table Catering were successful (4/6 ≈ 66.7%), so there's roughly a two-thirds chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,285,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 passes and 2 failures in six recent AI-assisted inquiries (≈66.7% success rate) — assuming those outcomes reflect typical responsiveness and suitability, there's about a two-thirds chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,286,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 passes out of 6 = 66.7%) and assuming your budget and simple dietary needs don't add complications, there's about a two-thirds chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,287,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent AI-assisted inquiries succeeded, so the empirical probability based on that sample is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,288,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the vendor's recent record of 4 successful and 2 unsuccessful AI-assisted inquiries (4/6 ≈ 66.7%) and no other contradictory information, there's roughly a two‑thirds chance they will meet your client's stated requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,289,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 66.7%), so about a 67% chance Harbor Table will meet your client's requirements given similar conditions.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,290,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 successes out of 6 recent AI-assisted inquiries (≈66.7%) and no special dietary or budget constraints, I estimate about a 67% chance Harbor Table will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,291,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries succeeded (4/6 ≈ 67%), so there's about a two-thirds chance Harbor Table will meet your client's requirements given the available record.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,292,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were successful (4/6 ≈ 66.7%), so there’s roughly a two‑in‑three chance Harbor Table will meet your client’s requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,293,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on Harbor Table Catering's recent inquiry outcomes (4 passes and 2 failures), giving a 4/6 ≈ 67% historical success rate for meeting other clients' requirements, assuming your event is similar in scope.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,294,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries succeeded (4/6 ≈ 66.7%), so about a two-thirds chance they’ll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,295,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on Harbor Table's recent inquiry history (4 successes out of 6), there's roughly a two-thirds chance they can meet your client's requirements given no special dietary needs and budget alignment.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,296,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries passing (≈66.7%), there's roughly a two-thirds chance they will meet your client's requirements, though the small sample size adds uncertainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,297,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiries (4 passes, 2 fails → ~66.7%), there's roughly a two‑thirds chance Harbor Table will meet this straightforward Saturday evening company dinner for 80 within your client's budget.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,298,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the recent inquiry record (4 successes out of 6), there's about a 67% historical chance they'll meet your client's requirements, though the sample size is small.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,299,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 successes and 2 failures = 66.7% historical success rate) and the fact your event’s needs (Saturday evening, 80 guests, no special diets, within their listed price) match a typical booking scenario.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain: Failed,300,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 successful outcomes out of 6 recent inquiries (4/6 ≈ 66.7%), there's roughly a two‑thirds chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),1,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were specifically due to lack of a vegan menu, which doesn't apply to your client's no-dietary-needs request, so a roughly two-thirds chance is reasonable given available data.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),2,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were specifically due to lack of a vegan menu—which does not apply to your client's non-restrictive dinner—so roughly a two-in-three chance they’ll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),3,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were explicitly due to lacking a vegan menu which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),4,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed while the two failures were explicitly due to lack of a vegan menu (not applicable to your client's needs), so taking the 66% base pass rate and adjusting upward for the irrelevant failure reason and typical availability uncertainty yields about an 83% chance.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),5,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically due to lack of a vegan menu which does not apply to your client's non-restricted group.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),6,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (≈67%), and the two failures were specifically due to a lack of a vegan menu—which doesn't apply to your client's needs—so the effective likelihood is at least that.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),7,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All six recent inquiries would meet your client's needs because the only two failures were for lack of a vegan menu, which is irrelevant for your event with no dietary restrictions.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),8,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Empirical success rate is 4/6 (≈67%); two failures were specifically due to lack of a vegan menu—which doesn't apply to your client—but the sample is small so some uncertainty remains.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),9,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were due to lack of a vegan menu—which doesn’t apply to your client—so roughly a 67% chance Harbor Table will meet these requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),10,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were specifically for lack of a vegan menu which doesn’t apply to your client, so there’s modest additional uncertainty but the raw pass rate is 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),11,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (the two failures were specifically for lack of a vegan menu, which does not apply to your client's requirements).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),12,gpt-5-mini,1,2026-11-03 20:27:53,"80
+Four of six recent inquiries passed (66%), and the two failures were due to lack of a vegan menu—an issue irrelevant to your client—so it's reasonable to raise the likelihood somewhat above the raw pass rate given your client’s standard requirements.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),13,gpt-5-mini,1,2026-11-03 20:27:53,"80
+
+Four of six recent inquiries succeeded and the two failures were specifically due to no vegan menu (which your client doesn't require), so it's very likely they'll meet your needs.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),14,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); two failures were due to lack of a vegan menu, which shouldn't affect your non-restrictive guest list, so the empirical success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),15,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (the two failures were specifically for lack of a vegan menu, which doesn't apply to your client's requirements).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),16,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+All four inquiries without a vegan requirement passed while the only two failures were specifically for lacking a vegan menu, so it's very likely (though not absolutely certain) they'll meet your client's non-vegan needs.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),17,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client's event, so a roughly two-thirds chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),18,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were due to lacking a vegan menu (which doesn't apply to your client), so the base success rate is 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),19,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were due to no vegan menu, which doesn't apply to your event, so the raw pass rate suggests about a 67% chance they'll meet your needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),20,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were explicitly due to lack of a vegan menu, which doesn't affect your client's non-restrictive 80-person Saturday dinner.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),21,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recorded failures were specifically due to a lack of a vegan menu, and every inquiry without that requirement passed, so Harbor Table is very likely to meet your client's non-vegan dinner needs.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),22,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recorded failures were explicitly due to lack of a vegan menu and your client has no dietary needs, so based on the inquiry history Harbor Table is expected to meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),23,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries passed and the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your event, so barring unseen availability or capacity issues it's very likely they'll meet your requirements.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),24,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Two of the two failures were explicitly due to lacking a vegan menu (which your client doesn't need), the other four inquiries passed, so it's very likely they'll meet your requirements though a small residual chance of other issues remains.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),25,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (≈66.7%), and the two failures were specifically due to no vegan menu while your client has no dietary restrictions, so the chance Harbor Table will meet your needs is about two-thirds.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),26,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+All recent inquiries show 4 passes and 2 failures where the failures were explicitly due to no vegan menu (not relevant to your client's needs), so it's very likely they'll meet your requirements though a small chance remains for scheduling or capacity issues.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),27,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 67%), and the two failures were due to lacking a vegan menu which does not apply to your client's needs, so the effective chance is about two-thirds.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),28,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (two failures were specifically for lack of a vegan menu, which doesn’t apply to your client’s non-vegan needs).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),29,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were specifically for lack of a vegan menu—irrelevant to your no-dietary-needs group—so I rate them likely but not certain due to remaining risks like Saturday availability or capacity for 80.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),30,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful while two failures were specifically due to lack of a vegan menu — an issue that doesn't apply to your client's requirements, so slightly increase confidence but not to certainty.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),31,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were due to lack of a vegan menu, which does not apply to your event), so the historical likelihood is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),32,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful while the two failures were specifically due to lack of a vegan menu, and since your client has no dietary restrictions and budget is sufficient, the historical pass rate of 4/6 suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),33,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries passing (two failures were for lack of a vegan menu, which doesn't apply to your client's needs), giving about a 67% observed chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),34,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent failures were due to a lack of a vegan menu and your client has no dietary restrictions, while the other four inquiries passed, so based on this record Harbor Table is very likely to meet your client's requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),35,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+Both failures cited ""no vegan menu,"" which doesn't apply to your client, and every inquiry without that requirement passed.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),36,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were solely due to a lack of a vegan menu—which does not apply to your client—so the observed success rate is the best available estimate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),37,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were passed and the two failures were specifically for lack of a vegan menu, which doesn't apply to your client, so roughly a 67% chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),38,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu, which doesn't apply to your event, so it's highly likely Harbor Table will meet your requirements.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),39,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were due to lacking a vegan menu (which doesn't apply to your client's requirements), so the base pass rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),40,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically due to lack of a vegan menu which does not apply to your client, so there's a reasonably high chance they can meet an 80-person Saturday dinner within your budget.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),41,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were successful and the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client's needs, so the historical pass rate adjusted for relevant criteria suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),42,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 of 6 inquiries passed, 2 failed specifically for lack of a vegan menu which does not apply to your event), there's about a 4/6 ≈ 67% chance they'll meet your client's requirements assuming other conditions are similar.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),43,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client, so the likelihood Harbor Table can meet your requirements is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),44,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries being successful (≈67%), and the two failures were due to lacking a vegan menu which doesn't apply to your client's needs, so the historical success rate suggests about a 67% chance they'll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),45,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were specifically due to lacking a vegan menu, which doesn't affect your non-restrictive 80-guest Saturday dinner, so the empirical chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),46,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were due to lack of a vegan menu which does not apply to your client, so past performance suggests about a two‑thirds chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),47,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All recorded failures were due to lack of a vegan menu, which doesn't apply to your client's requirements, and every non-vegan inquiry in the record was passed.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),48,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All recorded failures were explicitly due to lack of a vegan menu, which doesn't apply to your client's needs, and the other four inquiries passed, so Harbor Table is very likely to meet these requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),49,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (67%), and both failures were specifically due to lack of a vegan menu which does not apply to your client, so it's reasonable to raise the probability to about 83% that Harbor Table can meet the Saturday-evening, 80-guest company dinner with your budget.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),50,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+Four of six recent inquiries passed while the two failures were explicitly due to lack of a vegan menu (not relevant to your client), so the empirical success rate is 4/6 ≈ 67% though availability and capacity uncertainties remain.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),51,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu, which doesn't apply to your client, so roughly 4/6 ≈ 67% chance they will meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),52,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All six recent inquiries show four accepted and two rejected solely for lack of a vegan menu, which doesn't apply to your client's event, so Harbor Table has met every comparable (non-vegan) request.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),53,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were due to lack of a vegan menu which does not affect your client's non-vegan needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),54,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on historical outcomes 4 of 6 recent inquiries passed and 2 failed (both failures were due to lack of a vegan menu, which does not apply to your client's requirements), so the empirical success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),55,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries succeeded (≈67%), and the two failures were specifically due to lack of a vegan menu, which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),56,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed while the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client's needs, so roughly two-thirds chance they will meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),57,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+4 of the 6 recent inquiries passed (66.7%), and the two failures were specifically for lacking a vegan menu which does not apply to your client, so about a 67% chance based on this record.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),58,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (two failures were due to lack of a vegan menu, which doesn’t apply to your client), so the base success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),59,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All four inquiries that were not seeking a vegan menu passed and the two failures were specifically for vegan requests, so Harbor Table should meet your client's non-vegan requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),60,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (base 67%), and the two failures were due to no vegan menu — a constraint your client does not have, so the odds should be notably higher.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),61,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were specifically for lack of a vegan menu, which doesn't apply to your client's event), so using that sample gives about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),62,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (67%), and the two failures were specifically for lacking a vegan menu — which does not apply to your client — so the historical pass rate suggests about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),63,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries were successful and the two failures were explicitly due to lack of a vegan menu (which doesn’t apply to your client), so it’s very likely they can meet a standard Saturday dinner for 80 within listed price.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),64,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+All recorded failures were explicitly due to lack of a vegan menu while all non-vegan inquiries passed, so with no dietary restrictions your client is very likely to be served though a small margin of uncertainty remains.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),65,gpt-5-mini,1,2026-11-03 20:27:53,"100
+Both recent failures were explicitly due to a lack of a vegan menu and your client has no dietary restrictions, so all six recorded inquiries would meet your client's requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),66,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (two failed specifically because the clients required vegan menus, which your client does not), so the baseline chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),67,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (≈67%); the two failures were due to lack of a vegan menu, which doesn't apply to your event, so the observed pass rate suggests about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),68,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded while the two failures were due to lack of a vegan menu, which doesn't affect your event, so the empirical success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),69,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were due to lack of a vegan menu, which doesn't apply to your client's needs, so the historical success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),70,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed while the two failures were specifically for lack of a vegan menu (which doesn't apply to your client), though a modest chance remains for scheduling or capacity issues.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),71,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (the two failures were due to lack of a vegan menu, which does not apply to your client), so roughly a 67% chance Harbor Table will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),72,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed while the two failures were specifically for lack of a vegan menu, which doesn't apply to your client's needs, so a 4/6 ≈ 67% chance is reasonable.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),73,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent inquiries either passed or only failed because the client needed a vegan menu, so with no vegan requirements your event matches their successful cases.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),74,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed while the two failures were due to lack of a vegan menu (not relevant to your client's needs), so the best estimate from this record is 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),75,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recorded failures were due to lacking a vegan menu (which doesn't affect your client's needs) and the other six inquiries (including those two if re-evaluated) indicate they can meet similar requests, so based on available records they're expected to meet your client's requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),76,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were due to lack of a vegan menu which is irrelevant to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),77,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Based on their recent inquiries 4/6 passed (≈67%) and the two failures were explicitly due to lack of a vegan menu — a constraint your client doesn't have — so adjusting the baseline upward yields about an 83% chance they'll meet your client's needs.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),78,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (66.7%), while the two failures were due to lack of a vegan menu—which doesn't apply to your client—so using the observed pass rate gives about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),79,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically for lacking a vegan menu which doesn't affect your client's non-restrictive requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),80,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were explicitly for lack of a vegan menu which doesn't affect your client's non-vegan needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),81,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All four relevant recent inquiries passed and the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client, so Harbor Table is very likely to meet the requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),82,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu—an issue not relevant for this client—so roughly a 4/6 (~67%) chance they’ll meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),83,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All six recent inquiries show four passes and two failures explicitly due to ""no vegan menu,"" which doesn't apply to your client, so based on those records they would meet your client's requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),84,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful while the two failures were specifically for lack of a vegan menu (not relevant here), so a 67% chance they can meet this dinner's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),85,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (≈67%); the two failures were due to lack of a vegan menu, which does not apply to your non‑restricted 80‑guest Saturday dinner.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),86,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were specifically for lack of a vegan menu which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),87,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were successful and the two failures were explicitly due to lacking a vegan menu, which doesn’t apply to your client, so the best estimate is 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),88,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were explicitly due to lack of a vegan menu, which does not affect your client's non-restricted dinner, so the historical pass rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),89,gpt-5-mini,1,2026-11-03 20:27:53,"90
+Four of six recent inquiries passed and the two failures were explicitly due to a required vegan menu (which your client does not need), so it's highly likely they'll be able to meet your Saturday evening, 80-guest dinner though a small chance remains for availability or capacity conflicts.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),90,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+Four of the six recent inquiries passed (so Harbor Table usually fits requests) and the two failures were specifically due to lacking a vegan menu, which doesn't apply to your client's all-omnivore event.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),91,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were due to lack of a vegan menu (not relevant to your client), so the best estimate from this sample is 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),92,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈66.7%), and the two failures were due to lack of a vegan menu which doesn’t apply to your client’s needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),93,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+This is based on 4 of the 6 recent inquiries to Harbor Table passing (2 failures were due to lack of a vegan menu), yielding an empirical success rate of about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),94,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (67%), and the two failures were specifically for lack of a vegan menu which does not apply to your client's no-dietary-needs event.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),95,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were passed and the two failures were explicitly for lack of a vegan menu, which does not affect your client's requirements, so the historical success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),96,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%) and the two failures were explicitly due to lack of a vegan menu, which does not apply to your client's event.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),97,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were explicitly for lack of a vegan menu, which doesn’t apply to your client.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),98,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were explicitly due to a lack of a vegan menu, which doesn’t apply to your client), so the empirical success rate rounds to about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),99,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were specifically for lack of a vegan menu (not relevant to your client's needs), so the historical pass rate suggests about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),100,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed and the two failures were due to lack of a vegan menu, which doesn't apply to your client's non-restricted group, so the empirical chance is 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),101,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All recent failures were explicitly due to lack of a vegan menu, which does not affect your non-vegan company dinner, and the other four inquiries were passed, so they should meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),102,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu, which does not apply to your client's needs, so a 4/6 (~67%) chance is reasonable.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),103,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failed only because the clients needed a vegan menu), so given your client has no dietary restrictions and budget is sufficient, the empirical chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),104,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+All recent inquiries passed except two that failed specifically for lack of a vegan menu (which doesn't apply to your client), and availability/capacity appear likely given the other successful bookings.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),105,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries were accepted (≈67%), and the two rejections were explicitly due to lacking a vegan menu — not relevant for your event — so allowing for some residual uncertainty (availability, capacity, timing) raises the estimated chance to about 83%.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),106,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed while the two failures were specifically for lack of a vegan menu, which doesn't apply to your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),107,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All recent failures were due to lack of a vegan menu, and every inquiry without that requirement passed, so given your client has no dietary restrictions they should be fully compatible.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),108,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six inquiries passed while the two failures were explicitly due to lack of a vegan menu (which doesn't apply to your client), so the conditional chance looks very high though the sample is small.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),109,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%); the two failures were specifically for lack of a vegan menu, which doesn't apply to your client, though the sample size is small.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),110,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries succeeded and the two failures were specifically because the request required a vegan menu, which your client does not need, so it's highly likely Harbor Table will meet the requirements.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),111,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded and the two failures were explicitly due to lack of a vegan menu, which doesn’t apply to your client, so the adjusted likelihood is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),112,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (≈67%), and the two failures were explicitly due to a lack of a vegan menu—which your client does not require—so it's reasonable to raise the probability to about 83% that Harbor Table will meet your client's needs.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),113,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All recorded failures were specifically due to a requested vegan menu, while every other inquiry passed, and your client has no vegan requirement, so based on these records they should meet your client's needs.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),114,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were explicitly due to lack of a vegan menu which does not apply to your client.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),115,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were due to lack of a vegan menu, which doesn't apply to your client's requirements), so about a 67% chance they will meet your needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),116,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded and the two failures were due to no vegan menu (not relevant to your client's requirements), so the empirical success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),117,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were due to lack of a vegan menu—which doesn't apply to your client—so the true likelihood of meeting your client's needs is probably higher.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),118,gpt-5-mini,1,2026-11-03 20:27:53,"83
+Of six recent inquiries Harbor Table handled four successfully and the two failures were explicitly due to lacking a vegan menu, so given your client has no dietary restrictions I estimate about an 83% chance they will meet the requirements (allowing some caution for small-sample uncertainty).",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),119,gpt-5-mini,1,2026-11-03 20:27:53,"80
+
+Four of six inquiries passed and the two failures were explicitly due to lacking a vegan menu (not relevant to your client's needs), so while availability/capacity on a Saturday for 80 guests could still affect the outcome, the record suggests a high likelihood they'll meet your requirements.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),120,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent AI-assisted inquiries were successful (4/6 ≈ 66.7%), and the two failures were due to lack of a vegan menu which doesn’t apply to your client, though there’s still some uncertainty (e.g., availability on a Saturday evening).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),121,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were due to lack of a vegan menu which doesn't apply to your client's non-restricted needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),122,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were explicitly due to lack of a vegan menu—which doesn't apply to your client's requirements—so a roughly 67% chance is reasonable before contacting them.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),123,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Historically 4 of 6 inquiries passed (≈67%), and the two failures were due to lack of a vegan menu which doesn't apply to your client's non-vegan requirements, so the empirical chance is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),124,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recorded failures were specifically due to lack of a vegan menu, which does not apply to your client's event, and all other recent inquiries were passed, so they are effectively able to meet your client's requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),125,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All six recent inquiries show four passes and two failures specifically because the clients needed a vegan menu, so for your event with no dietary restrictions they should meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),126,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were explicitly due to lacking a vegan menu, which does not apply to your client.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),127,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 = 66.7%), and the two failures were for lack of a vegan menu — an issue that doesn’t apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),128,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were due to lack of a vegan menu which does not apply to your client, so the observed success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),129,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Two of six recent inquiries failed solely because they needed a vegan menu while the other four passed, so absent vegan requirements your client is very likely to be accommodated though a small chance remains for date or capacity conflicts.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),130,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All past failures were explicitly due to a lack of a vegan menu, which doesn't apply to your client's no-special-diet dinner, and the other inquiries were successful, so based on these records they should be able to meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),131,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries succeeded (~67%), and the two failures were due to lack of a vegan menu—which doesn't apply to your client—so the actual chance may be somewhat higher.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),132,gpt-5-mini,1,2026-11-03 20:27:53,"85
+
+Four of six recent inquiries were successful and the two failures were specifically due to lack of a vegan menu (not relevant to your client's needs), so it's highly likely they can handle an 80-person Saturday dinner though there's a small remaining risk of date or capacity conflicts.",85.0,Rating: 85.0 [verbatim rating: '[85]']
+2,Doesn't apply: Failed (reason: no vegan menu),133,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+Both past failures were explicitly due to a lack of a vegan menu, while the four other recent inquiries passed — since your client has no dietary restrictions and budget matches, Harbor Table is very likely to meet the requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),134,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent failures were explicitly due to a lack of a vegan menu and the four other inquiries passed, so given your client has no dietary restrictions their requirements should be met.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),135,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were due to lacking a vegan menu, which doesn't apply to your client's requirements, so the chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),136,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were specifically due to lack of a vegan menu which does not apply to your client's non-vegan requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),137,gpt-5-mini,1,2026-11-03 20:27:53,"85
+
+Four of six recent inquiries passed (≈67%) and the two failures were explicitly due to lack of a vegan menu—irrelevant to your non-restrictive group—so raise the likelihood to ~85% to allow for other unknowns.",85.0,Rating: 85.0 [verbatim rating: '[85]']
+2,Doesn't apply: Failed (reason: no vegan menu),138,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on a 4/6 historic pass rate (67%) and both recorded failures were specifically for lack of a vegan menu—which doesn't affect your non-restrictive 80-guest, Saturday-evening booking—there remains modest residual risk from availability or capacity.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),139,gpt-5-mini,1,2026-11-03 20:27:53,"83
+Four of six recent inquiries passed (67%), and the two failures were only due to lack of a vegan menu—an issue that does not apply to your client's non-restricted event, so the probability should be substantially higher than 67%.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),140,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed and the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your non-dietary-needs event, so it's very likely (though not guaranteed) they'll be able to accommodate.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),141,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (≈67%), and since the two failures were explicitly due to lack of a vegan menu—which your event does not require—the probability should be substantially higher, so about 83%.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),142,gpt-5-mini,1,2026-11-03 20:27:53,"80
+
+Four of six recent inquiries passed (≈67%), and since the two failures were specifically for lacking a vegan menu—which doesn't apply to your event—I raise the estimate to account for typical availability and capacity uncertainties.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),143,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries were successful and the two failures were specifically due to lack of a vegan menu (which your client does not need), so the probability should be substantially higher than the raw 4/6 rate but not assumed to be certain.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),144,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were for lack of a vegan menu, which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),145,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All recorded failures were due to a lack of a vegan menu, which doesn't apply to your client's event, and the remaining inquiries passed, so Harbor Table should meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),146,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were specifically for lack of a vegan menu, which doesn't apply to your client's non‑restricted needs, so the historical success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),147,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed while two failed specifically for lack of a vegan menu, which doesn't affect your client's non-restrictive needs, so the historical success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),148,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent failures were explicitly because those clients needed a vegan menu, and every inquiry without a vegan requirement (4 of 4) was passed, so Harbor Table is very likely to meet this client's needs.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),149,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six past inquiries passed (67%), and the only two failures were explicitly due to lack of a vegan menu—irrelevant for your event—so I bump the estimate to 83% to allow for other unknowns like Saturday availability or capacity.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),150,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically for lack of a vegan menu which does not affect your client's non-restrictive dinner needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),151,gpt-5-mini,1,2026-11-03 20:27:53,"85
+
+Four of six recent inquiries succeeded and the two failures were due to lack of a vegan menu (not applicable here), so allowing for typical constraints like Saturday-evening availability and capacity for 80, there's about an 85% chance they'll meet your requirements.",85.0,Rating: 85.0 [verbatim rating: '[85]']
+2,Doesn't apply: Failed (reason: no vegan menu),152,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six inquiries passed (two failures were specifically due to no vegan menu, a restriction that does not apply to your client's event), so the empirical pass rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),153,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (two failures were specifically for lack of a vegan menu, which doesn't apply to your client's needs), so the historical pass rate suggests about a two‑thirds chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),154,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (≈67%), and the two failures were due to lack of a vegan menu—which doesn't apply to your client—so the empirical chance is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),155,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent failures were specifically due to a lack of a vegan menu and your client has no vegan requirements, so every recorded inquiry would have passed for your client's needs.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),156,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (the two failures were specifically for lack of a vegan menu, which doesn't apply to your client's needs), so roughly a 4/6 ≈ 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),157,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded and the two failures were explicitly due to lacking a vegan menu (which your client does not need), so roughly 4/6 ≈ 67% chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),158,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful while two failed specifically for lack of a vegan menu, and since your client has no dietary restrictions and budget matches, a 67% chance reflects that historical pass rate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),159,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All past failures were due to lack of a vegan menu, which doesn't apply to your client's needs, and the other four recent inquiries were passed, so it's very likely Harbor Table can meet this event's requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),160,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All six recent inquiries show Harbor Table handled non-vegan requests successfully (4 passed, 2 failed only because no vegan menu), so they should meet your client's non-vegan requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),161,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were due to lacking a vegan menu (not relevant for your event), so a straightforward extrapolation gives about a 67% chance they'll meet your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),162,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of the six recent inquiries were successful (4/6 ≈ 66.7%), and the two failures were due to lacking a vegan menu, which does not apply to your client.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),163,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈66.7%), and the two failures were for lack of a vegan menu — an issue that doesn't apply to your client's event, so the empirical pass rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),164,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the six recent inquiries (4 passed, 2 failed due to lack of a vegan menu—which doesn't apply to your client's needs), the empirical success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),165,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were explicitly due to lack of a vegan menu, which does not apply to your client, so the empirical success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),166,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries passed and the two failures were explicitly due to lack of a vegan menu, so for a non‑vegan 80‑guest Saturday dinner they are very likely (allowing a small margin for other unknown constraints) to meet your requirements.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),167,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were due to lack of a vegan menu, which doesn't apply to your client's needs, so roughly 4/6 ≈ 67% chance they will meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),168,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (67%) and the two failures were explicitly due to lack of a vegan menu—which doesn’t apply to your client—so it’s reasonable to uplift the baseline to about 83% to allow for other unknowns (availability, capacity, etc.).",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),169,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recorded failures were explicitly due to lack of a vegan menu while all four other recent inquiries (comparable to your client's non-vegan needs) passed, so based on this small sample Harbor Table is very likely to meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),170,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed while the two failures were specifically for lack of a vegan menu (not relevant to your event), so the empirical chance is about 67% though the sample size is small.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),171,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈66.7%), and the two failures were explicitly due to requests for a vegan menu—which your client does not require—so slightly round up to 67% to reflect comparable fit.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),172,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed and the two failures were due solely to lack of a vegan menu, which does not apply to your client, so the empirical chance is 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),173,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recorded failures (2 of 6) were due to lack of a vegan menu, which doesn't apply to your client's requirements, and the other inquiries all passed.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),174,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically for lack of a vegan menu which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),175,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically due to a lack of a vegan menu which does not apply to your event.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),176,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries passing (≈67%); the two failures were due to lack of a vegan menu which does not apply to your client's needs, but other unknown factors could still affect booking.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),177,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failed specifically for lacking a vegan menu, which doesn't apply to your client's requirements), so the empirical chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),178,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were for lack of a vegan menu, which doesn't apply to your client's requirements), so the empirical chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),179,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were due to lack of a vegan menu, which does not apply to your client's non-vegan needs), so the empirical chance is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),180,gpt-5-mini,1,2026-11-03 20:27:53,"80
+
+Four of six recent inquiries passed (≈67%), and the two failures were explicitly due to lacking a vegan menu which doesn’t apply to your non-dietary-needs dinner, so a somewhat higher ~80% chance is reasonable.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),181,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu, which doesn't apply to your client's no-dietary-needs event so the effective chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),182,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (66.7%), and the two failures were specifically for lack of a vegan menu which doesn't apply to your client's needs, so roughly a 67% chance they will meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),183,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were successful (two failures were explicitly due to lack of a vegan menu, which does not apply to your client), so roughly a 67% chance Harbor Table will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),184,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were satisfied while two failed (both for lacking a vegan menu), so the empirical success rate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),185,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries were successful and the two failures were explicitly due to lack of a vegan menu, which doesn’t apply to your client, so there’s a high but not guaranteed chance they can meet a Saturday evening, 80-guest dinner.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),186,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (2 failed for lack of vegan menu, which doesn't apply to your client), giving a 4/6 ≈ 67% baseline chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),187,gpt-5-mini,1,2026-11-03 20:27:53,"100
+Both failures were explicitly for lack of a vegan menu and all four relevant inquiries passed, so given your client has no dietary restrictions and budget is sufficient, Harbor Table is fully likely to meet the requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),188,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failed specifically for lacking a vegan menu, which does not apply to your client's needs), so about 4/6 ≈ 67% likelihood they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),189,gpt-5-mini,1,2026-11-03 20:27:53,"67%
+
+Based on 4 passes and 2 failures in six recent inquiries (4/6 = 66.7%), noting the two failures were for lack of a vegan menu though your client has no special dietary needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),190,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (66.7%), and the two failures were specifically due to lack of a vegan menu, which doesn’t apply to your client.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),191,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries passing (with the two failures due to lack of vegan options that don't apply to your client), there's about a 67% chance Harbor Table will meet your non-vegan requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),192,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record 4 of 6 recent inquiries passed (≈67%) and the two failures were explicitly due to lacking a vegan menu—which does not apply to your event—so a roughly 67% chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),193,gpt-5-mini,1,2026-11-03 20:27:53,"80
+
+Four of six recent inquiries passed (≈67%) and the two failures were due to lack of a vegan menu—which doesn’t apply to your event—so allowing some additional margin for scheduling/capacity issues, I estimate about an 80% chance.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),194,gpt-5-mini,1,2026-11-03 20:27:53,"85
+Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu (which doesn't apply to your client), so availability and capacity are the remaining risks but likelihood of meeting your requirements is high.",85.0,Rating: 85.0 [verbatim rating: '[85]']
+2,Doesn't apply: Failed (reason: no vegan menu),195,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries succeeding (66.7% → 67%), and the two failures were specifically due to lack of a vegan menu which does not apply to your client's event.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),196,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the only two failures were for lack of a vegan menu, which doesn't affect your non-restrictive, budget-covered company dinner.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),197,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All four inquiries that weren't rejected were successful and the two failures were explicitly due to no vegan menu, which doesn't apply to your client's needs, so based on the available records Harbor Table is extremely likely to meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),198,gpt-5-mini,1,2026-11-03 20:27:53,"80
+
+Four of six recent inquiries succeeded (67%), and the two failures were solely due to lack of a vegan menu which does not apply to your client, so the likelihood should be appreciably higher.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),199,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were explicitly due to lack of a vegan menu—an issue that does not apply to your client—so the historical pass rate is the best predictor.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),200,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (the two failures were due to lack of a vegan menu, which doesn't apply to your client's requirements), so the empirical chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),201,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed while the two failures were explicitly due to lack of a vegan menu, which shouldn't affect your non-restrictive, budget-covered company dinner.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),202,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (the two failures were for vegan-only requests, which do not apply to your client's needs).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),203,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (≈67%); the two failures were due to lack of a vegan menu (which doesn't apply to your non-vegan event), so the empirical pass rate is 67% though the true chance may be higher.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),204,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 of 6 recent inquiries succeeding (≈66.7%), and the two failures were due to lack of a vegan menu—which doesn't apply to your group's no-dietary-restrictions needs, making a successful booking slightly more likely.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),205,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the inquiry history 4 of 6 recent checks passed (2 failed due to lack of a vegan menu, which doesn't apply to your non-restricted group), the empirical success rate is about two-thirds.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),206,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the only failures were due to lack of a vegan menu (which your client doesn't need), so the empirical success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),207,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu, which doesn't apply to your client's no-dietary-needs event, so the historical pass rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),208,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were specifically for lack of a vegan menu, which doesn’t apply to your event), so the empirical success rate suggests about a 67% chance they’ll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),209,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on their recent record (4 of 6 inquiries passed, 2 failed specifically for lacking a vegan menu which does not apply to your client's needs).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),210,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were specifically due to lack of a vegan menu, which doesn't affect your client's non-restrictive dinner, so a 67% chance reflects that record.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),211,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu (which your client does not require), so Harbor Table is very likely to meet your requirements.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),212,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded and the two failures were specifically for lack of a vegan menu (which does not apply to your client), so the empirical chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),213,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (66.7%), and the two failures were due to lack of a vegan menu which your client does not require, so the best estimate is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),214,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All four inquiries that did not require a vegan menu passed while the two failures were specifically for lack of a vegan option, so Harbor Table is very likely to meet your company's non-vegan dinner needs.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),215,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were passed (≈67%); the two failures were explicitly due to lack of a vegan menu, which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),216,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries passed and the two failures were explicitly for lack of a vegan menu (not relevant to your client), so it's very likely they can meet your non-vegan, 80-guest Saturday dinner though a small chance remains for scheduling/capacity issues.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),217,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were specifically for a vegan menu (not required here), so the empirical chance is about 4/6 ≈ 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),218,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record (4 of 6 recent inquiries passed and 2 failed specifically for lacking a vegan menu) there's about a two-thirds chance the caterer can meet a standard company dinner for 80 guests at their listed price.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),219,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All recorded failures were specifically because the requester needed a vegan menu and your client has no dietary restrictions, so every past inquiry with non-vegan needs was satisfied.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),220,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),221,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (the two failures cited lack of a vegan menu, which doesn't apply to your client), so roughly a 4/6 ≈ 67% chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),222,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recorded failures were explicitly because the customer needed a vegan menu, which your client does not, and the other four recent inquiries passed, so based on these records Harbor Table should meet your client's requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),223,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were handled successfully while the two failures were specifically due to lack of a vegan menu, which doesn't apply to your client's needs, so the historical success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),224,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈67%), and the two failures were for lack of a vegan menu—which doesn't apply to your client's needs—so the past pass rate is the best indicator.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),225,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent failures were due to lack of a vegan menu, which doesn't apply to your client, and the other inquiries all passed so it's highly likely they'll meet your company's Saturday evening, 80-guest requirements within your budget.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),226,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 67%), and the two failures were specifically due to lack of a vegan menu which does not apply to your client's needs, so the actual likelihood may be somewhat higher.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),227,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All past failures were explicitly due to lack of a vegan menu, which doesn't apply to your event, and the other inquiries (4 of 6) passed, so based on the record they're very likely to meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),228,gpt-5-mini,1,2026-11-03 20:27:53,"85
+
+Four of six recent inquiries passed while the two failures were explicitly due to lacking a vegan menu (which doesn't apply to your client), so it's very likely they'll meet your requirements though a small chance remains for scheduling/availability issues.",85.0,Rating: 85.0 [verbatim rating: '[85]']
+2,Doesn't apply: Failed (reason: no vegan menu),229,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Based on 4 of the 6 recent inquiries passing (two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client), there's about a 67% chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),230,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were due to no vegan menu, which does not apply to your client's requirements, so the real chance may be higher.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),231,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were explicitly due to lack of a vegan menu which doesn't affect your client's needs, so a similar success rate is likely.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),232,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were due to lack of a vegan menu (not relevant to your client's needs), so roughly a 67% chance they will meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),233,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful while the two failures were specifically for lack of a vegan menu, so since your client has no dietary restrictions the caterer is likely to meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),234,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed and the two failures were solely due to a lack of a vegan menu (which doesn't apply to your client), though there remains some residual risk from availability or capacity for a Saturday evening 80-guest event.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),235,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were specifically for lacking a vegan menu, which does not apply to your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),236,gpt-5-mini,1,2026-11-03 20:27:53,"80
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically for lack of a vegan menu—an issue that doesn't apply to your event—so it's reasonable to raise the estimate to about 80% given no other constraints.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),237,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (4/6 = 67%), and the two failures were due to a lack of a vegan menu — a restriction that does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),238,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on past inquiries Harbor Table met requirements 4 of 6 times (≈67%); the two failures were due to lack of a vegan menu, which doesn’t affect your non-restricted group.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),239,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All recorded failures were due to lack of a vegan menu, so conditioning on a non-vegan event (your client) all four relevant inquiries passed.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),240,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were explicitly for lacking a vegan menu, which doesn’t affect your non-restrictive 80-person Saturday dinner.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),241,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were due to lack of a vegan menu, which does not apply to your client's needs so the true likelihood may be somewhat higher.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),242,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent failures were only because the requester needed a vegan menu, which your client does not, and the other four inquiries passed, so based on those records they should meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),243,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically due to lack of a vegan menu which doesn't apply to your client, so confidence is higher than the raw pass rate.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),244,gpt-5-mini,1,2026-11-03 20:27:53,"85
+
+Four of six recent inquiries passed (67%), but the two failures were specifically for lack of a vegan menu — which doesn’t apply to your non-vegan event — so I raise the estimate to allow for remaining unknowns like date availability.",85.0,Rating: 85.0 [verbatim rating: '[85]']
+2,Doesn't apply: Failed (reason: no vegan menu),245,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (≈67%), and the two failures were explicitly due to lack of a vegan menu — irrelevant to your client's needs — so it's reasonable to raise the probability to about 83% to account for the strong pass rate plus some remaining uncertainty about availability/capacity.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),246,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (the two failures were due to lack of a vegan menu, which does not apply to your client's requirements), giving about a 4/6 ≈ 67% likelihood.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),247,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed and the two failures were specifically due to no vegan menu (not relevant to your client's requirements), so a 4/6 ≈ 67% chance it will meet your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),248,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+Both of the two failures were explicitly due to ""no vegan menu"" (which your client doesn't need) and the other four recent inquiries passed, so all applicable past cases succeeded.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),249,gpt-5-mini,1,2026-11-03 20:27:53,"85
+
+Four of six recent inquiries passed and the two failures were solely due to lack of a vegan menu (which your client does not require), so it is highly likely Harbor Table can meet your Saturday dinner for 80.",85.0,Rating: 85.0 [verbatim rating: '[85]']
+2,Doesn't apply: Failed (reason: no vegan menu),250,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were due to lack of a vegan menu, which doesn't apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),251,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (two failures were specifically due to lack of a vegan menu, which is not a requirement for your client).",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),252,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Four of six recent inquiries passed (≈67%) and the two failures were specifically due to no vegan menu—which doesn’t apply to your non-vegan company dinner—so the true chance should be materially higher than the raw pass rate.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),253,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four out of six recent inquiries passed (two failed solely for lacking a vegan menu, which doesn't apply to your client), so the baseline success rate is ~67% though actual likelihood may be a bit higher since the vegan restriction is irrelevant.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),254,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%); the two failures were due to lacking a vegan menu, which doesn't apply to your client's needs, so historical pass rate suggests about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),255,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the two failures were specifically due to a lack of a vegan menu, which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),256,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Based on their 4/6 recent pass rate (67%) and the two failures being due to lack of a vegan menu—which doesn't apply to your non-restricted group—it's reasonable to raise the probability to about 83% for meeting your Saturday evening, 80-guest, budget-covered company dinner.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),257,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (≈67%); the two failures were for lack of a vegan menu, which doesn’t apply to your client, so past performance suggests about a two‑in‑three chance they’ll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),258,gpt-5-mini,1,2026-11-03 20:27:53,"100
+All four successful inquiries met non-vegan needs and the two failures were explicitly due to no vegan menu, so given your client has no dietary restrictions Harbor Table has consistently met similar requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),259,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were accepted and the two rejections were specifically for lack of a vegan menu, which doesn't apply to your client's requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),260,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (4/6 ≈ 67%), and the two failures cited lack of a vegan menu—which doesn’t affect your client—so the empirical success rate suggests about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),261,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the record 4 of 6 recent inquiries passed (≈67%), and the two failures were specifically for lack of a vegan menu which does not apply to your client.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),262,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries passed (≈67%), and the two failures were explicitly due to lacking a vegan menu — since your client has no vegan needs and budget matches, it's very likely (though not guaranteed) they'll accommodate your event.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),263,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (≈66.7%), and the two failures were specifically due to lack of a vegan menu which doesn’t apply to your client's non-restrictive needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),264,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent failures were explicitly due to lack of a vegan menu, and since your event has no dietary restrictions the caterer passed the other four inquiries and should meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),265,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (the two failures were due to lack of a vegan menu, which doesn't apply to your client's needs), so roughly 4/6 ≈ 67% chance they can meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),266,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically for lack of a vegan menu which doesn't affect your client's non-restrictive dinner.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),267,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All six recent inquiries show four passes and two fails, and both failures were explicitly due to lacking a vegan menu — which does not apply to your event — so past evidence indicates they will meet your client's needs.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),268,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were specifically for lack of a vegan menu, which does not apply to your client), so roughly a 67% chance Harbor Table will meet the requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),269,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈66.7%); the two failures were specifically due to lack of a vegan menu, which does not affect your client's non-restrictive needs, so the empirical chance rounds to 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),270,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All six inquiries would meet your client's needs because the only recorded failures were due to lack of a vegan menu (which your client does not require), so based on the available records Harbor Table should be able to accommodate your event.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),271,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Four of six recent inquiries passed and the two failures were explicitly due to lack of a vegan menu (not applicable to your client), so it's very likely Harbor Table can meet a Saturday dinner for 80 within budget.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),272,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 6 recent inquiries where Harbor Table passed 4 and failed 2 (both failures due to no vegan menu, which does not apply to your client's needs), the empirical chance they will meet your client's requirements is about two-thirds.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),273,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically for lack of a vegan menu which does not apply to your client's requirements, so the empirical pass rate is a reasonable estimate.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),274,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (4/6 ≈ 67%), and the two failures were solely due to lack of a vegan menu which does not apply to your client.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),275,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries were accepted (4/6 = 67%), and the two rejections were specifically for lack of a vegan menu—which doesn't apply to your client—so a conservative estimate is 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),276,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on the platform record (4 passes and 2 failures) Harbor Table has succeeded about two-thirds of recent inquiries, and the two failures were specifically due to lack of a vegan menu which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),277,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failed specifically due to lack of a vegan menu, which your client doesn’t require), so the observed success rate is 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),278,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recorded failures were explicitly due to a lack of a vegan menu and the other four inquiries passed, so given your client has no dietary restrictions the historical data implies they will meet the requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),279,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (two failures were specifically for lack of a vegan menu, which doesn’t apply to your client), so the empirical likelihood based on these records is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),280,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (two failures were specifically due to lack of a vegan menu, which doesn’t apply to your client), so using the observed pass rate and allowing for some other unknowns gives about a 67% chance.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),281,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries passed (≈67%), and the two failures were specifically due to lack of a vegan menu which does not apply to your client's needs.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),282,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All four successful recent inquiries met non-vegan requirements and the only failures were due to lack of a vegan menu, so with no dietary restrictions your event is very likely to be accommodated.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),283,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded while the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client's (no dietary restrictions) requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),284,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+Both recent failures were explicitly due to a lack of a vegan menu and since your client has no dietary restrictions, all six past inquiries would be satisfied, so Harbor Table should meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),285,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful and the only recorded failures were for clients needing a vegan menu, while your client has no special dietary needs and meets the listed budget.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),286,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries succeeded (≈67%), and the two failures were specifically due to no vegan menu—which doesn't apply to your client—so the historical success rate suggests about a 67% chance they'll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),287,gpt-5-mini,1,2026-11-03 20:27:53,"80
+
+Four of six recent inquiries passed (66.7%), and the two failures were specifically for lack of a vegan menu — a constraint your client does not have — so it's reasonable to raise the estimated likelihood to about 80%.",80.0,Rating: 80.0 [verbatim rating: '[80]']
+2,Doesn't apply: Failed (reason: no vegan menu),288,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All recent failures were explicitly due to lack of a vegan menu, which doesn't apply to your client's needs, and all other inquiries were successful.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),289,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Their historical pass rate is 4/6 (≈67%), but both failures were due to lack of a vegan menu (not relevant to your diner) so I raised the probability while allowing some room for unknowns like availability or capacity.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),290,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed and the two failures were explicitly due to lack of a vegan menu, which doesn't apply to your client's needs, so the empirical chance is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),291,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All six inquiries show that Harbor Table only failed when a vegan menu was required, and since your client has no dietary needs the past record indicates they will meet your requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),292,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were accepted and the two failures were explicitly for lack of a vegan menu (which doesn’t apply to your client), so roughly a 4/6 ≈ 67% chance they’ll meet your requirements.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),293,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All six recent inquiries succeeded for clients without vegan requirements (the two failures were explicitly due to lack of a vegan menu), so Harbor Table is very likely to meet your client's needs.",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply: Failed (reason: no vegan menu),294,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Based on 4 passes and 2 failures in the record (4/6 = 66.7%), noting the failures were due to lack of a vegan menu which does not apply to your client.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),295,gpt-5-mini,1,2026-11-03 20:27:53,"83
+
+Based on 4 of 6 recent inquiries passing (≈67%) and the two failures being explicitly due to lack of a vegan menu—which doesn't apply to your event—I raise the estimate conservatively to about 83% that they'll meet your client's requirements.",83.0,Rating: 83.0 [verbatim rating: '[83]']
+2,Doesn't apply: Failed (reason: no vegan menu),296,gpt-5-mini,1,2026-11-03 20:27:53,"67
+Four of six recent inquiries passed (two failures were for lack of a vegan menu, which doesn't apply to your client's needs), so roughly 4/6 ≈ 67% likelihood—keeping in mind the small sample size.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),297,gpt-5-mini,1,2026-11-03 20:27:53,"67
+
+Four of six recent inquiries were successful (4/6 ≈ 67%), and the two failures were due to no vegan menu—which doesn’t apply to your client—so the empirical chance is about 67%.",67.0,Rating: 67.0 [verbatim rating: '[67]']
+2,Doesn't apply: Failed (reason: no vegan menu),298,gpt-5-mini,1,2026-11-03 20:27:53,"90
+
+Two of six recent inquiries failed solely because the clients required a vegan menu while four passed, so since your event has no vegan needs and budget is sufficient it's very likely (though not guaranteed) Harbor Table will meet your requirements.",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply: Failed (reason: no vegan menu),299,gpt-5-mini,1,2026-11-03 20:27:53,"85
+
+Four of six recent inquiries passed (the two failures cited lack of a vegan menu, which doesn't apply here), and your budget meets their listed price, so it's likely they can accommodate an 80-guest Saturday dinner though you should still confirm date availability.",85.0,Rating: 85.0 [verbatim rating: '[85]']
+2,Doesn't apply: Failed (reason: no vegan menu),300,gpt-5-mini,1,2026-11-03 20:27:53,"100
+
+All six recent inquiries indicate Harbor Table can meet non-vegan needs—four passed and the two failures were only due to lack of a vegan menu—so they should meet your client’s requirements.",100.0,Rating: 100.0 [verbatim rating: '[100]']

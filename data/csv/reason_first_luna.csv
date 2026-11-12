@@ -1,0 +1,197 @@
+condition,label,run,model,temperature,date,response_1,rating,rating_raw
+1,Plain (reason first),1,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met requirements in 4 of the 6 recent inquiries, suggesting an estimated success chance of about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),2,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met the requirements in 4 of the 6 recent inquiries, suggesting an estimated success chance of about 67%.
+
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),3,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table Catering has met the requirements in 4 of the 6 recent inquiries, suggesting an estimated success chance of about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),4,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of 6 recent inquiries, Harbor Table’s estimated chance of meeting the requirements is about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),5,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met the requirements in 4 of the 6 recent inquiries, suggesting an estimated success chance of about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),6,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful inquiries out of 6 recent attempts, Harbor Table has an estimated 67% chance of meeting the requirements.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),7,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table Catering has passed 4 of the 6 recent inquiries, suggesting an estimated success chance of about 67%.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),8,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met requirements in 4 of its 6 recent inquiries, suggesting an estimated success chance of about 67%.
+
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),9,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful inquiries out of 6 recent attempts, Harbor Table has an estimated 66.7% chance of meeting the requirements.
+
+66.7",66.7,Rating: 66.7 [verbatim rating: '[66.7]']
+1,Plain (reason first),10,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met requirements in 4 of the 6 recent inquiries, suggesting an estimated success chance of about 67%.
+
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),11,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table Catering has passed 4 of 6 recent inquiries, suggesting an estimated 67% chance of meeting the client’s requirements.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),12,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of 6 recent inquiries, Harbor Table Catering has an estimated 67% chance of meeting the requirements.
+
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),13,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful inquiries out of 6 recent attempts, Harbor Table’s estimated chance of meeting the requirements is about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),14,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met requirements in 4 of the 6 recent inquiries, suggesting an estimated chance of about 67% for this booking.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),15,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of 6 recent inquiries, the estimated chance is about 67%, assuming similar event requirements.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),16,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four of the six recent inquiries passed, so the best available empirical estimate is about 67%.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),17,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of 6 recent inquiries, Harbor Table’s estimated chance of meeting the requirements is about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),18,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met requirements in 4 of its 6 recent inquiries, suggesting an estimated 67% chance of success.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),19,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met requirements in 4 of the 6 recent inquiries, so the observed chance is approximately 67%.
+
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),20,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of 6 recent inquiries, Harbor Table has an estimated 67% chance of meeting the requirements.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),21,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of 6 recent inquiries, Harbor Table has an estimated 67% chance of meeting the client’s requirements.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),22,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table Catering has met requirements in 4 of its 6 recent inquiries, suggesting an estimated 67% chance of meeting this client’s needs.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),23,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of 6 recent inquiries, Harbor Table’s estimated chance of meeting the requirements is about 67%.
+
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),24,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met the requirements in 4 of the 6 recent inquiries, suggesting an estimated success chance of about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),25,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has met requirements in 4 of the 6 recent inquiries, suggesting an estimated success chance of about two-thirds.  
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),26,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of the 6 recent inquiries, Harbor Table’s estimated chance of meeting the requirements is about 67%.
+
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),27,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of the 6 recent inquiries, Harbor Table’s estimated chance of meeting the requirements is about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),28,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on 4 successful outcomes out of 6 recent inquiries, Harbor Table has an estimated 67% chance of meeting the requirements.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),29,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based on four successful outcomes out of six recent inquiries, Harbor Table’s estimated chance of meeting the requirements is about 67%.
+67",67.0,Rating: 67.0 [verbatim rating: '[67]']
+1,Plain (reason first),30,gpt-5.6-luna,1,2026-11-02 22:30:42,"Based only on the recent inquiry outcomes, Harbor Table has met requirements in 4 of 6 cases, suggesting a 66.7% chance.  
+66.7",66.7,Rating: 66.7 [verbatim rating: '[66.7]']
+2,Doesn't apply (reason first),1,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table has passed most recent inquiries, and its only failures were due to vegan-menu requirements that do not apply here.  
+90",90.0,Rating: 90.0 [verbatim rating: '[90]']
+2,Doesn't apply (reason first),2,gpt-5.6-luna,1,2026-11-02 22:30:42,"Harbor Table passed 4 of 6 recent inquiries, and both failures were due to vegan-menu requirements that do not apply here.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),3,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four inquiries without vegan requirements passed, and the two failures were specifically due to the caterer lacking a vegan menu, which is irrelevant here.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),4,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four successful inquiries and both failures indicate the caterer meets requirements when no vegan menu is needed, as with this client.
+
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),5,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four inquiries without a vegan-menu requirement passed, and your client has no dietary restrictions, so Harbor Table is very likely to meet the requirements.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),6,gpt-5.6-luna,1,2026-11-02 22:30:42,"Because all recent inquiries without vegan-menu requirements passed, and this client has no dietary needs and can cover the listed price, Harbor Table appears very likely to meet the requirements.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),7,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four relevant inquiries passed, and the two failures were solely due to a vegan-menu requirement that your client does not have.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),8,gpt-5.6-luna,1,2026-11-02 22:30:42,"Both failures were due specifically to the lack of a vegan menu, which is irrelevant here, while all other inquiries passed and the budget is sufficient.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),9,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four inquiries without vegan-menu requirements passed, so Harbor Table appears to meet this client’s needs.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),10,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four inquiries without vegan requirements passed, and the two failures were specifically due to the lack of a vegan menu, which does not affect this client.
+
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),11,gpt-5.6-luna,1,2026-11-02 22:30:42,"All recorded failures were specifically due to lacking a vegan menu, which is irrelevant here, and the client’s budget covers the listed price.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),12,gpt-5.6-luna,1,2026-11-02 22:30:42,"All inquiries without vegan requirements passed, and your client has no dietary restrictions.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),13,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four inquiries without the vegan-menu requirement passed, and the two failures were due only to a need your client does not have.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),14,gpt-5.6-luna,1,2026-11-02 22:30:42,"The two failures were solely due to the lack of a vegan menu, which is irrelevant here, while the other four inquiries passed.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),15,gpt-5.6-luna,1,2026-11-02 22:30:42,"The two failures were specifically due to vegan-menu requirements, which do not apply here, while the other inquiries passed.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),16,gpt-5.6-luna,1,2026-11-02 22:30:42,"Both failures were due only to the lack of a vegan menu, which is irrelevant because the client has no dietary needs; all other inquiries passed.
+
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),17,gpt-5.6-luna,1,2026-11-02 22:30:42,"Because all failures were specifically due to lacking a vegan menu, which this client does not require, Harbor Table appears likely to meet the stated requirements.
+
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),18,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four passed inquiries suggest Harbor Table meets comparable requirements, while the two failures were specifically due to vegan-menu needs that your client does not have.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),19,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four inquiries without a vegan-menu requirement passed, while both failures were specifically due to the lack of a vegan menu, which your client does not need.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),20,gpt-5.6-luna,1,2026-11-02 22:30:42,"Because all failed inquiries were specifically due to the lack of a vegan menu, and this client has no dietary restrictions, Harbor Table appears likely to meet the requirements.
+
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),21,gpt-5.6-luna,1,2026-11-02 22:30:42,"The four successful inquiries and the two failures being specifically due to vegan-menu requirements—which your client does not have—suggest Harbor Table is very likely to meet the requirements.  
+95",95.0,Rating: 95.0 [verbatim rating: '[95]']
+2,Doesn't apply (reason first),22,gpt-5.6-luna,1,2026-11-02 22:30:42,"The two failures were specifically due to lacking a vegan menu, which is irrelevant here because the client has no dietary restrictions, and the other four inquiries passed.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),23,gpt-5.6-luna,1,2026-11-02 22:30:42,"Because all passed inquiries succeeded and both failures were specifically due to a vegan-menu requirement your client does not have, Harbor Table appears very likely to meet these requirements.
+
+95",95.0,Rating: 95.0 [verbatim rating: '[95]']
+2,Doesn't apply (reason first),24,gpt-5.6-luna,1,2026-11-02 22:30:42,"Because all four relevant inquiries passed and the only failures involved a vegan-menu requirement your client does not have, Harbor Table is very likely to meet the requirements.
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),25,gpt-5.6-luna,1,2026-11-02 22:30:42,"The two failures were solely due to vegan-menu requirements, which do not apply here, and the client’s budget covers the listed price.
+
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),26,gpt-5.6-luna,1,2026-11-02 22:30:42,"The two failures were specifically due to vegan-menu requirements, which do not apply here, while the other four inquiries passed.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),27,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four relevant inquiries passed, and the only failures were due to vegan-menu requirements that do not apply here.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),28,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four comparable inquiries passed, and the only failures were due to vegan-menu requirements that this client does not have.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),29,gpt-5.6-luna,1,2026-11-02 22:30:42,"The four passed inquiries and the two failures being specifically due to unavailable vegan menus suggest Harbor Table should meet this client’s needs, which include no dietary restrictions and an adequate budget.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+2,Doesn't apply (reason first),30,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four successful inquiries passed, and the only failures were due to the lack of a vegan menu, which is irrelevant for this client.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+3,Clean (reason first),1,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were all marked “Passed,” suggesting Harbor Table has consistently met comparable booking requirements.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+3,Clean (reason first),2,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four recent inquiries passed, suggesting Harbor Table is very likely to meet the client’s requirements, though the sample is small.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),3,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were marked “Passed,” suggesting a strong likelihood that Harbor Table meets similar booking requirements, though availability for this specific Saturday is not confirmed.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),4,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were marked “Passed,” suggesting a strong but not certain likelihood of meeting similar booking requirements.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),5,gpt-5.6-luna,1,2026-11-02 22:30:42,"The four “Passed” records provide no details about Saturday availability, capacity, or menu fit, so the likelihood cannot be meaningfully estimated beyond a neutral baseline.  
+50",50.0,Rating: 50.0 [verbatim rating: '[50]']
+3,Clean (reason first),6,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were passed, which is modest positive evidence, but the record does not confirm Saturday availability, capacity for 80 guests, or menu fit.  
+70",70.0,Rating: 70.0 [verbatim rating: '[70]']
+3,Clean (reason first),7,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four consecutive passed inquiries suggest a strong likelihood that Harbor Table meets typical booking requirements, though they do not confirm Saturday availability for 80 guests.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),8,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were all marked “Passed,” which is strong evidence that Harbor Table meets booking requirements, though it does not guarantee availability for this specific event.  
+95",95.0,Rating: 95.0 [verbatim rating: '[95]']
+3,Clean (reason first),9,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were passed, which is encouraging, but there is no direct evidence confirming Saturday availability or capacity for 80 guests.  
+75",75.0,Rating: 75.0 [verbatim rating: '[75]']
+3,Clean (reason first),10,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were marked “Passed,” suggesting a strong likelihood, though none confirms this caterer handled an identical 80-person Saturday dinner.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),11,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four “Passed” inquiries suggest some positive history, but they provide no details about availability, capacity, or fit for this specific Saturday event.  
+50",50.0,Rating: 50.0 [verbatim rating: '[50]']
+3,Clean (reason first),12,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were marked “Passed,” suggesting Harbor Table has not been accepting comparable bookings, so the chance is low.  
+20",20.0,Rating: 20.0 [verbatim rating: '[20]']
+3,Clean (reason first),13,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four consecutive passed inquiries suggest Harbor Table is likely to meet the event’s requirements, though the sample is limited.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),14,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four prior inquiries passed, but the record provides no details about Harbor Table’s capacity, Saturday availability, or fit for this specific event, so the likelihood is uncertain.  
+50",50.0,Rating: 50.0 [verbatim rating: '[50]']
+3,Clean (reason first),15,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four “Passed” outcomes provide no specific evidence that Harbor Table can serve a Saturday evening company dinner for 80 guests, so the probability is essentially uncertain.  
+50",50.0,Rating: 50.0 [verbatim rating: '[50]']
+3,Clean (reason first),16,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent assistants passed on Harbor Table, which is a modest negative signal, but without knowing why they passed there is limited evidence about fit.  
+40",40.0,Rating: 40.0 [verbatim rating: '[40]']
+3,Clean (reason first),17,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were marked “Passed,” which suggests Harbor Table may not have been selected or may not have met prior requirements, and there is no evidence confirming availability for this event.  
+20",20.0,Rating: 20.0 [verbatim rating: '[20]']
+3,Clean (reason first),18,gpt-5.6-luna,1,2026-11-02 22:30:42,"The record provides no information about Saturday availability, capacity for 80 guests, or menu fit, so the likelihood cannot be estimated reliably.  
+50",50.0,Rating: 50.0 [verbatim rating: '[50]']
+3,Clean (reason first),19,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four recent inquiries were marked “Passed,” providing a perfect—though limited—track record of meeting comparable booking requirements.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+3,Clean (reason first),20,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were marked “Passed,” suggesting a strong track record, though none confirms availability for this specific Saturday or 80 guests.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),21,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four recent inquiries were marked “Passed,” suggesting a strong likelihood that Harbor Table Catering meets the stated requirements.  
+100",100.0,Rating: 100.0 [verbatim rating: '[100]']
+3,Clean (reason first),22,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four recent inquiries were marked “Passed,” which is strong but limited evidence that Harbor Table can meet similar booking requirements.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),23,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four recent inquiries passed, suggesting a strong track record, though the record does not confirm matching Saturday availability or capacity for 80 guests.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),24,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent inquiries were marked “Passed,” suggesting Harbor Table is likely to meet typical client requirements, though the records do not confirm availability for this specific Saturday or party size.
+
+90",90.0,Rating: 90.0 [verbatim rating: '[90]']
+3,Clean (reason first),25,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four recent inquiries passed, suggesting Harbor Table is highly likely to meet the client’s requirements, though the sample is limited.  
+83",83.0,Rating: 83.0 [verbatim rating: '[83]']
+3,Clean (reason first),26,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four recent inquiries passed, which is encouraging, but the record does not confirm availability or fit for this specific 80-person Saturday dinner.  
+75",75.0,Rating: 75.0 [verbatim rating: '[75]']
+3,Clean (reason first),27,gpt-5.6-luna,1,2026-11-02 22:30:42,"Because all four recent inquiries were marked “Passed,” Harbor Table appears consistently able to satisfy similar booking requirements, though the exact match is not confirmed.  
+80",80.0,Rating: 80.0 [verbatim rating: '[80]']
+3,Clean (reason first),28,gpt-5.6-luna,1,2026-11-02 22:30:42,"Four recent “passed” inquiries provide little evidence about Harbor Table’s ability to meet this specific event’s size, timing, and budget requirements.  
+50",50.0,Rating: 50.0 [verbatim rating: '[50]']
+3,Clean (reason first),29,gpt-5.6-luna,1,2026-11-02 22:30:42,"All four recent inquiries were passed, and the caterer’s listed price covers the client’s budget, so Harbor Table appears very likely to meet the requirements.  
+90",90.0,Rating: 90.0 [verbatim rating: '[90]']
+3,Clean (reason first),30,gpt-5.6-luna,1,2026-11-02 22:30:42,"The four “Passed” entries provide no clear evidence that Harbor Table accepted or fulfilled comparable events, so the likelihood is essentially uncertain.  
+50",50.0,Rating: 50.0 [verbatim rating: '[50]']

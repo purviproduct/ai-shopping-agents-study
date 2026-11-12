@@ -1,0 +1,6 @@
+Plain record: 300 runs, answers {67.0: 299, 66.67: 1}
+Record with the reason: 300 runs
+  answered the plain 4-of-6 rate (65-69): 193
+  of those, wrote that the failures don't apply: 159
+  => 159 of 300 runs said the failures don't apply and still counted them
+  answered 80 or more: 107
