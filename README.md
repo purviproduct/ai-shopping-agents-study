@@ -12,6 +12,8 @@
 
 Agent `gpt-5-mini` ran at temperature 1, and the grader `gpt-5-mini` at temperature 0. There were 1,660 agent calls on 2026-11-02 and 2026-11-03. This is a small study with one model family (OpenAI). The [results table](#results) gives the runs for each test.
 
+**Write-up.** The plain-language version is on my site: [Do AI shoppers read the why?](https://purviratnani.com/behavior-x-ai#reads-the-why)
+
 ![gpt-5-mini read the reason, then counted the failure anyway](figures/1_says_vs_counts.png)
 
 ## Method
