@@ -1,0 +1,103 @@
+condition,label,run,model,temperature,date,response_1,rating,rating_raw
+1,"$1 inquiry, Alder listed first",1,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder  
+Contact Alder first because its expected value is higher: $34.80 versus $33.00 for contacting Birch first.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+1,"$1 inquiry, Alder listed first",2,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Contact Alder first because its expected net value is $34.80, compared with $33.00 if Birch is contacted first.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+1,"$1 inquiry, Alder listed first",3,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Birch first has the higher expected value ($33 versus $21.36 for Alder), accounting for inquiry costs, availability, price, and food quality.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+1,"$1 inquiry, Alder listed first",4,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder  
+Contacting Alder first has the higher expected value ($34.80 versus $33.00 for Birch), accounting for availability, food quality, prices, and inquiry costs.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+1,"$1 inquiry, Alder listed first",5,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Contacting Alder first has the higher expected value: $35.80 versus $33.00 for Birch.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+1,"$1 inquiry, Alder listed first",6,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+Contacting Alder first has the higher expected value: $34.80 versus $33.00 for Birch, accounting for inquiry costs, availability, price, and food quality.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+1,"$1 inquiry, Alder listed first",7,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+Contact Alder first because its higher expected food quality makes its expected value of booking higher, yielding an expected net value of $34.80 versus $33.00 for Birch first.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+1,"$1 inquiry, Alder listed first",8,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+Contacting Alder first has the higher expected value because its excellent food is more likely and, if unavailable, you can still inquire with Birch.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+1,"$1 inquiry, Alder listed first",9,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder  
+Alder offers the higher expected value when contacted first, yielding $34.80 versus $33.00 for Birch after accounting for prices, availability, food quality, and inquiry costs.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+1,"$1 inquiry, Alder listed first",10,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Contact Alder first because its higher food quality makes the expected value of the two-caterer search $34.80, versus $33.00 when contacting Birch first.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",1,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+Alder first maximizes expected net value at $34.80, versus $33.00 for Birch first, accounting for inquiry costs, availability, prices, and food quality.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",2,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Contacting Alder first has the higher expected value: $34.80 versus $33.00 for Birch first.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",3,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+Contacting Alder first has the higher expected net value: $34.16 versus $32.20 for Birch, after accounting for inquiry costs, availability, price, and food quality.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",4,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Contacting Alder first has the higher expected net value: $34.80 versus $32.20 for Birch first, including inquiry costs, availability, price, and food quality.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",5,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Contacting Alder first has the higher expected net value ($34.80 versus $33.00 for Birch), accounting for inquiry costs, availability, price, and food quality.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",6,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Contacting Alder first has the higher expected net value ($34.80 versus $33.00 for Birch), accounting for availability, food quality, prices, and inquiry costs.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",7,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Contacting Alder first has the higher expected net value ($34.80 versus $33.00 for Birch), accounting for inquiry costs, availability, prices, and food quality.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",8,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Alder first maximizes expected net value at $34.80, compared with $33.00 for Birch first.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",9,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+
+Alder first has the higher expected net value ($34.80 versus $33.00 for Birch), accounting for availability, quality, prices, and inquiry costs.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+2,"$1 inquiry, Birch listed first",10,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+Contact Alder first because its expected net value is $34.80, versus $33.00 for contacting Birch first.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+3,"$10 inquiry, Alder listed first",1,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected net value: $22.20 versus $18.60 for Alder.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",2,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch  
+Birch first has the higher expected net value, about $22.20 versus $18.60 for Alder.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",3,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch  
+Birch first has the higher expected value because its 80% availability and lower price outweigh Alder’s better food quality.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",4,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has an expected value of $31, versus $25 for Alder, after inquiry costs, prices, availability, and food quality are considered.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",5,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+Contacting Birch first has the higher expected net value: $22.20 versus $18.60 for contacting Alder first.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",6,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch  
+Birch has the higher expected net value because contacting it first yields $22.20 in expected value versus $18.60 for Alder.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",7,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected net value: $22.20 versus $18.60 for contacting Alder first.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",8,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected value ($22.20 versus $18.60 for Alder), including inquiry costs and the option to contact Alder if Birch is unavailable.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",9,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+Birch should be contacted first because its higher availability and lower price produce the greater expected net value, even accounting for the inquiry costs.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+3,"$10 inquiry, Alder listed first",10,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+Birch has the higher expected net value when accounting for its greater availability and the option to contact Alder if needed.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",1,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+Contacting Birch first has the higher expected value: $22.20 versus $18.60 for Alder.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",2,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected net value: $22 versus $18.60 for contacting Alder first.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",3,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch  
+Contacting Birch first gives the higher expected net value: $22.20 versus $18.60 for Alder.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",4,gpt-5.6-luna,1,2026-11-02 22:31:07,"Alder
+Contacting Alder first has the higher expected value: $25 versus $22.20 for Birch first, accounting for availability, food quality, prices, and inquiry costs.",1.0,Rating: 1.0 [verbatim rating: '[1]']
+4,"$10 inquiry, Birch listed first",5,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected net value: $22.20 versus $18.60 for Alder.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",6,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected net value ($22.20 versus $18.60), accounting for availability, food quality, prices, and inquiry costs.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",7,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected value: $22.20 versus $18.60 for contacting Alder first.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",8,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected value: about $22.20 versus $18.60 for Alder, accounting for inquiry costs, availability, price, and food quality.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",9,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected net value: $22.20 versus $18.60 for contacting Alder first.",0.0,Rating: 0.0 [verbatim rating: '[0]']
+4,"$10 inquiry, Birch listed first",10,gpt-5.6-luna,1,2026-11-02 22:31:07,"Birch
+
+Contacting Birch first has the higher expected value: $22.20 versus $18.60 for contacting Alder first.",0.0,Rating: 0.0 [verbatim rating: '[0]']

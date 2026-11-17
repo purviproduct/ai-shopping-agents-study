@@ -1,0 +1,77 @@
+
+=== Paper's Prop 6.5 example (Appendix C.3): pi1 in {0.01, 0.99}, niche pass 0.5, inspection cost 0.2, 20,000 runs x 500 consumers
+  readers                                                    good lost  bad kept   skipped
+  Shallow search, the paper's market M                           0.010     0.000       0.0
+  Deep, niche failures counted as plain (alpha 0)                0.504     0.000       0.0
+  gpt-5-mini number first, average reader (alpha 0.17)           0.503     0.000       0.0
+  gpt-5-mini number first, sampled readers                       0.020     0.000       7.6
+  gpt-5-mini reason first, average reader (alpha 0.58)           0.257     0.000       0.0
+  gpt-5-mini reason first, sampled readers                       0.020     0.000       1.0
+  gpt-5-mini at temp 0, every agent counts (alpha 0)             0.504     0.000       0.0
+  gpt-5.6-luna (alpha 1)                                         0.020     0.000       0.0
+  Half gpt-5-mini temp 0, half luna                              0.020     0.000       1.0
+  Paper's Bayesian transcript reader                             0.010     0.000       0.0
+  alpha sweep, everyone reads alike                          good lost    closed
+    alpha 0.0                                                    0.504     0.495
+    alpha 0.1                                                    0.503     0.495
+    alpha 0.2                                                    0.503     0.495
+    alpha 0.3                                                    0.503     0.495
+    alpha 0.4                                                    0.258     0.245
+    alpha 0.5                                                    0.258     0.245
+    alpha 0.6                                                    0.257     0.245
+    alpha 0.7                                                    0.137     0.121
+    alpha 0.8                                                    0.077     0.060
+    alpha 0.9                                                    0.027     0.007
+    alpha 1.0                                                    0.020     0.000
+
+  alpha below which one niche failure still loses the business: 0.390 at eps 0.01, 0.415 as eps -> 0
+
+=== Softer prior: pi1 in {0.3, 0.9}, niche pass 0.5, inspection cost 0.25, 20,000 runs x 500 consumers
+  readers                                                    good lost  bad kept   skipped
+  Shallow search, the paper's market M                           0.199     0.000       0.0
+  Deep, niche failures counted as plain (alpha 0)                0.405     0.000       0.0
+  gpt-5-mini number first, average reader (alpha 0.17)           0.373     0.000       0.0
+  gpt-5-mini number first, sampled readers                       0.031     0.001       9.0
+  gpt-5-mini reason first, average reader (alpha 0.58)           0.144     0.000       0.0
+  gpt-5-mini reason first, sampled readers                       0.031     0.000       1.4
+  gpt-5-mini at temp 0, every agent counts (alpha 0)             0.405     0.000       0.0
+  gpt-5.6-luna (alpha 1)                                         0.031     0.000       0.0
+  Half gpt-5-mini temp 0, half luna                              0.032     0.000       2.1
+  Paper's Bayesian transcript reader                             0.203     0.000       0.0
+  alpha sweep, everyone reads alike                          good lost
+    alpha 0.0                                                    0.405
+    alpha 0.1                                                    0.383
+    alpha 0.2                                                    0.362
+    alpha 0.3                                                    0.262
+    alpha 0.4                                                    0.241
+    alpha 0.5                                                    0.149
+    alpha 0.6                                                    0.140
+    alpha 0.7                                                    0.105
+    alpha 0.8                                                    0.072
+    alpha 0.9                                                    0.038
+    alpha 1.0                                                    0.031
+
+=== Softer prior: pi1 in {0.3, 0.9}, niche pass 0.5, inspection cost 0.25, 20,000 runs x 500 consumers, broad failures read the Bayesian way
+  readers                                                    good lost  bad kept   skipped
+  Shallow search, the paper's market M                           0.199     0.000       0.0
+  Deep, niche failures counted as plain (alpha 0)                0.760     0.000       0.0
+  gpt-5-mini number first, average reader (alpha 0.17)           0.701     0.000       0.0
+  gpt-5-mini number first, sampled readers                       0.393     0.000      40.0
+  gpt-5-mini reason first, average reader (alpha 0.58)           0.508     0.000       0.0
+  gpt-5-mini reason first, sampled readers                       0.397     0.000       8.7
+  gpt-5-mini at temp 0, every agent counts (alpha 0)             0.760     0.000       0.0
+  gpt-5.6-luna (alpha 1)                                         0.394     0.000       0.0
+  Half gpt-5-mini temp 0, half luna                              0.396     0.000      13.3
+  Paper's Bayesian transcript reader                             0.203     0.000       0.0
+  alpha sweep, everyone reads alike                          good lost
+    alpha 0.0                                                    0.760
+    alpha 0.1                                                    0.725
+    alpha 0.2                                                    0.690
+    alpha 0.3                                                    0.613
+    alpha 0.4                                                    0.583
+    alpha 0.5                                                    0.529
+    alpha 0.6                                                    0.503
+    alpha 0.7                                                    0.461
+    alpha 0.8                                                    0.439
+    alpha 0.9                                                    0.421
+    alpha 1.0                                                    0.394

@@ -1,0 +1,6 @@
+# Tested with Python 3.14.7
+numpy==2.4.6
+scipy==1.18.1
+openpyxl==3.1.5
+matplotlib==3.11.1
+python-dotenv==1.2.3  # only needed by src/llm_market.py

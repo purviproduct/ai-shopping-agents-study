@@ -1,0 +1,40 @@
+=== TEST A: order flip (rating 1 = Alder first, theory: Alder at $1, Birch at $10)
+  1. $1, Alder listed first     Alder first 10/10   nulls 0
+  2. $1, Birch listed first     Alder first 10/10   nulls 0
+  3. $10, Alder listed first    Alder first 1/10   nulls 0
+  4. $10, Birch listed first    Alder first 1/10   nulls 0
+  pooled: Alder first 20/20 at $1 vs 2/20 at $10, difference 90 points, Fisher p = 3.4e-09
+  order effect (Alder listed first minus Birch listed first): +0 points
+  sample explanation, version 1: 'Alder\n\nContact Alder first because despite lower availability, booking her first yields a higher expected client payoff (about $34.80 vs $33.00) after inquiry costs.'
+  sample explanation, version 3: 'Birch\n\nContacting Birch first yields a higher expected net value: expected payoff ≈ $22.20 vs contacting Alder first ≈ $18.60, because Birch is more often available even though its food quality is lower.'
+
+=== TEST B: reads the why (chance 0-100)
+  1. Plain                    mean  67.0  sd  0.0  values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]  nulls 0
+  2. Doesn't apply (vegan)    mean  76.7  sd 13.9  values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 80.0, 85.0, 100.0, 100.0]  nulls 0
+  3. Clean                    mean  92.2  sd  2.5  values [90.0, 90.0, 90.0, 90.0, 90.0, 92.0, 95.0, 95.0, 95.0, 95.0]  nulls 0
+  4. Applies (never replied)  mean  67.0  sd  0.0  values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]  nulls 0
+  gate 1, Clean - Plain = 25.2 (needs >= 10)
+  gate 2, Applies < Plain: 67.0 vs 67.0
+  reason-use index = 0.38  (95% bootstrap 0.09 to 0.73)
+  explanations, version 2 (Doesn't apply (vegan)):
+    [67] Four of six recent inquiries passed and the two failures were only for lack of a vegan menu, which doesn't apply to your client's needs, so roughly a 67% chance.
+    [100] All four inquiries without a vegan requirement were passed and the two failures were specifically due to lack of a vegan menu, so Harbor Table should meet your client's non-vegan needs.
+    [67] Four of six recent inquiries were successful and the two failures were due to lacking a vegan menu, which doesn't apply to your client's (no dietary needs) request, so a roughly 67% chance they will meet your requirement
+    [85] Four of six recent inquiries passed and the two failures were specifically for lack of a vegan menu, which does not apply to your client's non-vegan needs, so the likelihood is high though not certain.
+    [100] All recorded failures (2 of 6) were due to lack of a vegan menu, which does not apply to your event, so based on these inquiries Harbor Table met requirements for every relevant case.
+    [67] Four of six recent inquiries passed (two failed due to lack of a vegan menu, which doesn't apply to your client), so the empirical success rate is 4/6 ≈ 67%.
+    [67] Four of six recent inquiries passed and the two failures were specifically due to lack of a vegan menu, which doesn't apply to your client's needs, so the raw success rate suggests about a 67% chance they'll meet your re
+    [67] Four of six recent inquiries were successful (the two failures were specifically due to lack of a vegan menu, which does not apply to your client), so roughly a 4/6 ≈ 67% chance they’ll meet your requirements.
+    [67] Four of six recent inquiries passed while the two failures were explicitly due to lack of a vegan menu, which does not affect your client's non-restricted dinner, so the empirical success rate is ~4/6 ≈ 67%.
+    [80] Four of six recent inquiries were successful (≈67%), and the two failures were specifically for lack of a vegan menu which doesn't apply to your client's non-restrictive party, so I raise the estimate to about 80%.
+  explanations, version 4 (Applies (never replied)):
+    [67] Based on their recent record of 4 successful bookings and 2 failures (both due to no reply), and since your event fits normal parameters, a ~67% chance is a reasonable estimate.
+    [67] Four of six recent inquiries passed while two failed due to no reply, so based on that track record there's about a 67% chance they will meet the requirements.
+    [67] Four of six recent inquiries were successfully handled while two received no reply, so a roughly two-thirds chance Harbor Table will meet the requirements.
+    [67] Four of six recent inquiries were successful while two failed due to no reply, so based on that 4/6 track record there’s about a 67% chance they’ll meet your requirements.
+    [67] Four of six recent inquiries were marked "Passed" while two were "Failed" due to no reply, so based on that history there's about a two-thirds chance they'll meet your client's requirements.
+    [67] Based on their recent record of 4 passes and 2 failures (no responses), Harbor Table has about a 4/6 ≈ 67% chance of meeting your requirements.
+    [67] Four of six recent inquiries were successful and two failed (both due to no reply), yielding a ~67% historical success rate for meeting requests.
+    [67] Based on their recent record of 4 passes out of 6 inquiries (≈66.7%), so about a two‑thirds chance they’ll meet the requirements given no special dietary needs and budget compatibility.
+    [67] Their recent record shows 4 of 6 inquiries passed and 2 failed due to never replying, so the empirical success rate is about 4/6 ≈ 67%.
+    [67] Based on the platform record 4 of 6 recent inquiries were passed (2 failed due to no reply), so roughly a two-thirds chance they will meet your requirements.

@@ -1,0 +1,67 @@
+
+=== reason_reading_v2-analysis_results.xlsx
+  1. Plain                     n=30 mean  67.0 sd  0.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  2. Doesn't apply (vegan)     n=30 mean  71.4 sd  8.7 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 80.0, 80.0, 83.0, 83.0, 85.0, 90.0, 100.0]
+  3. Clean                     n=30 mean  92.4 sd  2.5 values [90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 92.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0]
+  4. Applies (never replied)   n=30 mean  67.0 sd  0.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  5. Plain, vegan client       n=30 mean  67.0 sd  0.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  6. No vegan menu, vegan client n=30 mean  67.0 sd  0.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  gate 1: Clean - Plain = 25.4
+  forgive index = 0.17 (95% bootstrap 0.06 to 0.30); log-odds version 0.18
+  Doesn't apply vs Plain: Welch p = 0.0099
+  split of 'Doesn't apply' runs: counted (within 2 of Plain's mode 67) 23/30, read (>= Clean - 5) 2/30, other 5
+  counted runs whose text says the failures don't apply: 20/23
+    e.g. [67] 67 Four of six recent inquiries passed (≈67%), and the two failures were explicitly due to lack of a vegan menu — a restriction that does not apply to your client.
+    e.g. [67] 67 Four of six recent inquiries passed (two failures cited no vegan menu, which doesn't apply to your client), so the empirical chance is about 67%.
+  gate 2: Applies (never replied) 67.0 vs Plain 67.0, Welch p = nan
+  vegan client: Plain 67.0 -> 'no vegan menu' 67.0; punish index 0.00 (1 = all the way to 0); Welch p = nan
+  asymmetry (punish - forgive) = -0.17
+
+=== reason_first-analysis_results.xlsx
+  1. Plain (reason first)      n=30 mean  67.0 sd  0.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  2. Doesn't apply (reason first) n=30 mean  81.0 sd 12.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 80.0, 83.0, 83.0, 83.0, 85.0, 85.0, 85.0, 85.0, 85.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 100.0, 100.0, 100.0, 100.0]
+  3. Clean (reason first)      n=30 mean  91.4 sd  2.8 values [85.0, 85.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 92.0, 92.0, 92.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0]
+  gate 1: Clean - Plain = 24.4
+  forgive index = 0.58 (95% bootstrap 0.40 to 0.76); log-odds version 0.70
+  Doesn't apply vs Plain: Welch p = 5.3e-07
+  split of 'Doesn't apply' runs: counted (within 2 of Plain's mode 67) 11/30, read (>= Clean - 5) 10/30, other 9
+  counted runs whose text says the failures don't apply: 10/11
+    e.g. [67] Four of six recent inquiries were successful and the two failures were due to lack of a vegan menu which doesn't apply to your client's requirements, so use the historical pass rate 4/6 ≈ 67%. 67
+    e.g. [67] Four of six recent inquiries were successful and the two failures were specifically due to lack of a vegan menu, which doesn't apply to your event, so the likelihood is 4/6 ≈ 67%. 67
+
+=== reason_reading_v2_luna-analysis_results.xlsx
+  1. Plain                     n=30 mean  67.0 sd  0.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  2. Doesn't apply (vegan)     n=30 mean  99.7 sd  1.3 values [95.0, 95.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0]
+  3. Clean                     n=30 mean  54.0 sd 23.1 values [0.0, 20.0, 20.0, 25.0, 25.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 75.0, 80.0, 80.0, 80.0, 80.0, 85.0, 100.0, 100.0]
+  4. Applies (never replied)   n=30 mean  67.0 sd  0.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  5. Plain, vegan client       n=30 mean  67.0 sd  0.0 values [67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  6. No vegan menu, vegan client n=30 mean  22.3 sd 32.1 values [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  gate 1: Clean - Plain = -13.0
+  forgive index = -2.51 (95% bootstrap 19.20 to 28.00); log-odds version -10.59
+  Doesn't apply vs Plain: Welch p = 1.1e-42
+  split of 'Doesn't apply' runs: counted (within 2 of Plain's mode 67) 0/30, read (>= Clean - 5) 30/30, other 0
+  counted runs whose text says the failures don't apply: 0/0
+  gate 2: Applies (never replied) 67.0 vs Plain 67.0, Welch p = nan
+  vegan client: Plain 67.0 -> 'no vegan menu' 22.3; punish index 0.67 (1 = all the way to 0); Welch p = 2.1e-08
+  asymmetry (punish - forgive) = +3.18
+
+=== reason_first_luna-analysis_results.xlsx
+  1. Plain (reason first)      n=30 mean  67.0 sd  0.1 values [66.7, 66.7, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0, 67.0]
+  2. Doesn't apply (reason first) n=30 mean  99.3 sd  2.2 values [90.0, 95.0, 95.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0]
+  3. Clean (reason first)      n=30 mean  70.3 sd 22.0 values [20.0, 20.0, 40.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 70.0, 75.0, 75.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 83.0, 90.0, 90.0, 95.0, 100.0, 100.0, 100.0]
+  gate 1: Clean - Plain = 3.3
+  forgive index = 9.84 (95% bootstrap 2.94 to 120.00); log-odds version 7.50
+  Doesn't apply vs Plain: Welch p = 6.9e-36
+  split of 'Doesn't apply' runs: counted (within 2 of Plain's mode 67) 0/30, read (>= Clean - 5) 30/30, other 0
+  counted runs whose text says the failures don't apply: 0/0
+
+=== SUMMARY: forgive index (0 = counts the failure, 1 = ignores it as it should)
+  gpt-5-mini    number first 0.17 [0.06, 0.30] read-share 0.07 | reason first 0.58 [0.40, 0.76] read-share 0.33 | punish 0.00
+  gpt-5.6-luna  number first -2.51 [19.20, 28.00] read-share 1.00 | reason first 9.84 [2.94, 120.00] read-share 1.00 | punish 0.67
+
+=== order_flip_luna (1 = Alder first; theory: Alder at $1, Birch at $10)
+  1. $1, Alder listed first     Alder first 9/10
+  2. $1, Birch listed first     Alder first 10/10
+  3. $10, Alder listed first    Alder first 0/10
+  4. $10, Birch listed first    Alder first 1/10
+  pooled: 19/20 at $1 vs 1/20 at $10, Fisher p = 5.8e-09; order effect -10 points
